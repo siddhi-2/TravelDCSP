@@ -1,0 +1,276 @@
+NAME,price,room type,house_rules,minimum nights,maximum occupancy,review rate number,city
+Austin Stay 0,136.0,Hotel room,,3.0,5.0,3.4,Austin
+Austin Stay 1,81.0,Private room,No smoking & No parties,3.0,3.0,4.7,Austin
+Austin Stay 2,275.0,Hotel room,No pets,3.0,2.0,4.5,Austin
+Austin Stay 3,382.0,,,,,4.7,Austin
+Austin Stay 4,311.0,Private room,No pets,1.0,5.0,2.5,Austin
+Austin Stay 5,407.0,Private room,No pets,3.0,1.0,2.8,Austin
+Austin Stay 6,242.0,Entire home/apt,No parties,4.0,4.0,2.0,Austin
+Austin Stay 7,363.0,,,,,3.2,Austin
+Austin Stay 8,163.0,Entire home/apt,No smoking & No visitors,4.0,5.0,4.0,Austin
+Austin Stay 9,86.0,Private room,No pets,2.0,1.0,3.1,Austin
+Austin Stay 10,56.0,,,,,2.5,Austin
+Austin Stay 11,316.0,,,,,2.6,Austin
+Austin Stay 12,402.0,Shared room,No visitors & No parties,3.0,5.0,4.0,Austin
+Austin Stay 13,64.0,,,,,4.1,Austin
+Austin Stay 14,370.0,Shared room,No pets & No visitors,4.0,4.0,3.4,Austin
+Austin Stay 15,428.0,Shared room,,2.0,1.0,2.7,Austin
+Austin Stay 16,390.0,Private room,,2.0,2.0,3.5,Austin
+Austin Stay 17,211.0,Private room,No visitors,4.0,1.0,3.9,Austin
+Austin Stay 18,128.0,Entire home/apt,,4.0,1.0,2.2,Austin
+Austin Stay 19,55.0,Entire home/apt,No visitors,1.0,4.0,2.7,Austin
+Austin Stay 20,110.0,Entire home/apt,No visitors & No parties,3.0,3.0,3.9,Austin
+Austin Stay 21,252.0,Hotel room,,1.0,3.0,2.1,Austin
+Austin Stay 22,443.0,Hotel room,,2.0,3.0,5.0,Austin
+Austin Stay 23,53.0,Entire home/apt,,4.0,4.0,4.1,Austin
+Austin Stay 24,231.0,Entire home/apt,No visitors & No pets,1.0,4.0,3.9,Austin
+Dallas Stay 0,249.0,Entire home/apt,No children under 10,4.0,1.0,3.5,Dallas
+Dallas Stay 1,247.0,Entire home/apt,No visitors,1.0,1.0,4.2,Dallas
+Dallas Stay 2,280.0,Shared room,,4.0,6.0,3.8,Dallas
+Dallas Stay 3,382.0,Entire home/apt,No parties,3.0,5.0,3.4,Dallas
+Dallas Stay 4,92.0,,,,,3.6,Dallas
+Dallas Stay 5,330.0,,,,,3.9,Dallas
+Dallas Stay 6,337.0,Private room,No visitors & No pets,1.0,6.0,2.9,Dallas
+Dallas Stay 7,381.0,Entire home/apt,,3.0,6.0,4.6,Dallas
+Dallas Stay 8,70.0,Private room,,2.0,3.0,2.7,Dallas
+Dallas Stay 9,235.0,Private room,No children under 10 & No pets,2.0,1.0,2.7,Dallas
+Dallas Stay 10,304.0,,,,,4.5,Dallas
+Dallas Stay 11,436.0,Shared room,No smoking,3.0,4.0,2.2,Dallas
+Dallas Stay 12,102.0,Private room,,4.0,5.0,4.0,Dallas
+Dallas Stay 13,422.0,Entire home/apt,No pets,1.0,2.0,3.1,Dallas
+Dallas Stay 14,195.0,Entire home/apt,No smoking & No visitors,2.0,4.0,4.5,Dallas
+Dallas Stay 15,101.0,Private room,,3.0,2.0,4.7,Dallas
+Dallas Stay 16,67.0,Shared room,,2.0,4.0,3.9,Dallas
+Dallas Stay 17,207.0,Private room,,3.0,6.0,4.1,Dallas
+Dallas Stay 18,390.0,Private room,No children under 10 & No visitors,3.0,3.0,3.8,Dallas
+Dallas Stay 19,133.0,Private room,No pets & No parties,2.0,6.0,4.1,Dallas
+Dallas Stay 20,384.0,Entire home/apt,,3.0,1.0,2.9,Dallas
+Dallas Stay 21,90.0,Shared room,No visitors & No parties,4.0,1.0,2.3,Dallas
+Dallas Stay 22,245.0,Private room,,2.0,1.0,4.8,Dallas
+Dallas Stay 23,43.0,Entire home/apt,No visitors & No smoking,2.0,2.0,3.4,Dallas
+Dallas Stay 24,66.0,Hotel room,No visitors & No smoking,1.0,4.0,3.0,Dallas
+Houston Stay 0,163.0,Hotel room,No pets & No visitors,3.0,6.0,4.6,Houston
+Houston Stay 1,237.0,Entire home/apt,No visitors,3.0,3.0,4.2,Houston
+Houston Stay 2,149.0,Hotel room,No visitors,3.0,2.0,4.6,Houston
+Houston Stay 3,366.0,,,,,3.3,Houston
+Houston Stay 4,330.0,Hotel room,No pets,4.0,3.0,3.2,Houston
+Houston Stay 5,158.0,Private room,No visitors & No parties,1.0,4.0,4.6,Houston
+Houston Stay 6,215.0,Hotel room,No smoking & No children under 10,4.0,6.0,2.5,Houston
+Houston Stay 7,250.0,Private room,No pets,4.0,4.0,2.9,Houston
+Houston Stay 8,436.0,Hotel room,No children under 10 & No parties,2.0,3.0,3.9,Houston
+Houston Stay 9,48.0,Hotel room,No smoking & No pets,4.0,3.0,4.6,Houston
+Houston Stay 10,149.0,Hotel room,,4.0,4.0,4.2,Houston
+Houston Stay 11,397.0,Entire home/apt,,2.0,3.0,3.1,Houston
+Houston Stay 12,252.0,Shared room,No visitors & No children under 10,3.0,4.0,2.3,Houston
+Houston Stay 13,75.0,Shared room,No smoking & No visitors,4.0,6.0,3.1,Houston
+Houston Stay 14,254.0,Private room,,4.0,3.0,2.8,Houston
+Houston Stay 15,201.0,,,,,3.5,Houston
+Houston Stay 16,378.0,,,,,2.9,Houston
+Houston Stay 17,80.0,Private room,,4.0,3.0,3.3,Houston
+Houston Stay 18,315.0,Hotel room,No smoking & No children under 10,1.0,2.0,4.0,Houston
+Houston Stay 19,392.0,Entire home/apt,No parties,3.0,3.0,2.2,Houston
+Houston Stay 20,323.0,Shared room,No visitors & No parties,1.0,1.0,2.2,Houston
+Houston Stay 21,206.0,Entire home/apt,No visitors & No pets,3.0,4.0,5.0,Houston
+Houston Stay 22,176.0,Private room,No parties,2.0,4.0,4.8,Houston
+Houston Stay 23,,Private room,No visitors & No smoking,2.0,3.0,4.9,Houston
+Houston Stay 24,384.0,,,,,2.7,Houston
+Plano Stay 0,203.0,Entire home/apt,,4.0,6.0,4.6,Plano
+Plano Stay 1,440.0,Shared room,No visitors,2.0,5.0,4.1,Plano
+Plano Stay 2,192.0,,,,,5.0,Plano
+Plano Stay 3,233.0,Entire home/apt,,1.0,5.0,3.6,Plano
+Plano Stay 4,238.0,Shared room,No parties,4.0,6.0,3.7,Plano
+Plano Stay 5,426.0,Private room,No smoking,4.0,2.0,3.0,Plano
+Plano Stay 6,438.0,Entire home/apt,No pets & No children under 10,2.0,6.0,4.3,Plano
+Plano Stay 7,450.0,Private room,No children under 10,4.0,5.0,2.6,Plano
+Plano Stay 8,141.0,Shared room,No pets,1.0,1.0,2.9,Plano
+Plano Stay 9,413.0,Private room,No parties & No children under 10,4.0,6.0,2.9,Plano
+Plano Stay 10,231.0,,,,,4.3,Plano
+Plano Stay 11,251.0,Shared room,No visitors & No pets,3.0,3.0,4.0,Plano
+Plano Stay 12,413.0,Entire home/apt,,3.0,2.0,3.0,Plano
+Plano Stay 13,141.0,Hotel room,No pets,1.0,6.0,4.5,Plano
+Plano Stay 14,198.0,,,,,2.6,Plano
+Plano Stay 15,99.0,Shared room,No smoking,2.0,4.0,2.8,Plano
+Plano Stay 16,336.0,Hotel room,No pets,3.0,5.0,3.6,Plano
+Plano Stay 17,410.0,Entire home/apt,No visitors,3.0,5.0,2.5,Plano
+Plano Stay 18,295.0,Shared room,,2.0,3.0,3.8,Plano
+Plano Stay 19,90.0,Private room,,2.0,1.0,2.6,Plano
+Plano Stay 20,308.0,Private room,,4.0,3.0,4.6,Plano
+Plano Stay 21,231.0,Entire home/apt,,2.0,4.0,3.6,Plano
+Plano Stay 22,283.0,Private room,,3.0,1.0,2.3,Plano
+Plano Stay 23,218.0,,,,,2.3,Plano
+Plano Stay 24,358.0,,,,,3.7,Plano
+Columbus Stay 0,211.0,Hotel room,,4.0,3.0,4.4,Columbus
+Columbus Stay 1,146.0,Shared room,,4.0,4.0,2.6,Columbus
+Columbus Stay 2,319.0,Entire home/apt,No visitors & No parties,1.0,3.0,4.9,Columbus
+Columbus Stay 3,92.0,Private room,No pets & No children under 10,1.0,4.0,2.3,Columbus
+Columbus Stay 4,316.0,Entire home/apt,No visitors,4.0,4.0,2.8,Columbus
+Columbus Stay 5,215.0,Shared room,No smoking & No parties,4.0,2.0,2.2,Columbus
+Columbus Stay 6,216.0,,,,,2.2,Columbus
+Columbus Stay 7,400.0,Entire home/apt,No parties & No smoking,4.0,4.0,4.8,Columbus
+Columbus Stay 8,378.0,Shared room,No smoking,4.0,5.0,2.8,Columbus
+Columbus Stay 9,61.0,Shared room,,4.0,2.0,4.2,Columbus
+Columbus Stay 10,147.0,Private room,,1.0,6.0,4.0,Columbus
+Columbus Stay 11,338.0,Shared room,,4.0,4.0,3.1,Columbus
+Columbus Stay 12,41.0,,,,,4.9,Columbus
+Columbus Stay 13,414.0,Entire home/apt,No parties,4.0,4.0,2.5,Columbus
+Columbus Stay 14,438.0,Hotel room,,4.0,3.0,2.8,Columbus
+Columbus Stay 15,162.0,Entire home/apt,No pets,1.0,5.0,3.6,Columbus
+Columbus Stay 16,133.0,Private room,,1.0,1.0,3.0,Columbus
+Columbus Stay 17,200.0,Private room,,1.0,4.0,2.5,Columbus
+Columbus Stay 18,87.0,Hotel room,No parties,4.0,3.0,4.3,Columbus
+Columbus Stay 19,364.0,Private room,,4.0,4.0,2.5,Columbus
+Columbus Stay 20,216.0,Private room,No smoking,2.0,4.0,2.3,Columbus
+Columbus Stay 21,410.0,Shared room,No children under 10 & No parties,1.0,6.0,2.8,Columbus
+Columbus Stay 22,43.0,Hotel room,No visitors & No smoking,2.0,3.0,3.3,Columbus
+Columbus Stay 23,255.0,Entire home/apt,No parties,3.0,5.0,3.2,Columbus
+Columbus Stay 24,258.0,Shared room,No pets,1.0,4.0,2.1,Columbus
+Cleveland Stay 0,409.0,Entire home/apt,No visitors,4.0,2.0,3.8,Cleveland
+Cleveland Stay 1,227.0,,,,,4.6,Cleveland
+Cleveland Stay 2,403.0,Shared room,No pets,1.0,2.0,4.5,Cleveland
+Cleveland Stay 3,163.0,Hotel room,No visitors,4.0,4.0,2.4,Cleveland
+Cleveland Stay 4,135.0,Shared room,,3.0,5.0,4.5,Cleveland
+Cleveland Stay 5,401.0,Hotel room,,1.0,4.0,4.2,Cleveland
+Cleveland Stay 6,75.0,,,,,4.1,Cleveland
+Cleveland Stay 7,44.0,Hotel room,No parties,1.0,5.0,2.7,Cleveland
+Cleveland Stay 8,215.0,Private room,No pets & No smoking,4.0,5.0,4.4,Cleveland
+Cleveland Stay 9,133.0,,,,,2.8,Cleveland
+Cleveland Stay 10,359.0,Private room,No children under 10 & No pets,1.0,4.0,2.4,Cleveland
+Cleveland Stay 11,326.0,Private room,,3.0,5.0,3.9,Cleveland
+Cleveland Stay 12,303.0,Shared room,No children under 10,3.0,4.0,4.3,Cleveland
+Cleveland Stay 13,119.0,Shared room,No visitors,2.0,5.0,2.5,Cleveland
+Cleveland Stay 14,138.0,Hotel room,,2.0,6.0,3.0,Cleveland
+Cleveland Stay 15,242.0,Shared room,No visitors,4.0,2.0,4.3,Cleveland
+Cleveland Stay 16,64.0,Hotel room,No pets & No parties,3.0,6.0,2.6,Cleveland
+Cleveland Stay 17,179.0,Private room,,3.0,6.0,4.5,Cleveland
+Cleveland Stay 18,302.0,Private room,,2.0,6.0,3.0,Cleveland
+Cleveland Stay 19,388.0,Shared room,,4.0,2.0,2.2,Cleveland
+Cleveland Stay 20,173.0,Entire home/apt,,1.0,3.0,3.7,Cleveland
+Cleveland Stay 21,207.0,Private room,No pets,3.0,6.0,4.4,Cleveland
+Cleveland Stay 22,443.0,Entire home/apt,No children under 10 & No smoking,1.0,1.0,2.5,Cleveland
+Cleveland Stay 23,172.0,Entire home/apt,No children under 10 & No visitors,2.0,2.0,3.5,Cleveland
+Cleveland Stay 24,318.0,Shared room,No smoking,3.0,3.0,5.0,Cleveland
+Dayton Stay 0,432.0,Entire home/apt,No pets,3.0,6.0,2.3,Dayton
+Dayton Stay 1,,,,,,2.3,Dayton
+Dayton Stay 2,438.0,Entire home/apt,,4.0,3.0,3.7,Dayton
+Dayton Stay 3,374.0,,,,,2.5,Dayton
+Dayton Stay 4,362.0,Shared room,,1.0,5.0,2.5,Dayton
+Dayton Stay 5,163.0,Shared room,No children under 10 & No visitors,2.0,5.0,4.9,Dayton
+Dayton Stay 6,254.0,Hotel room,,1.0,3.0,4.5,Dayton
+Dayton Stay 7,49.0,Shared room,,1.0,5.0,2.2,Dayton
+Dayton Stay 8,134.0,Private room,No pets,1.0,5.0,4.1,Dayton
+Dayton Stay 9,446.0,Hotel room,No parties & No pets,3.0,2.0,2.4,Dayton
+Dayton Stay 10,124.0,,,,,3.2,Dayton
+Dayton Stay 11,322.0,,,,,3.6,Dayton
+Dayton Stay 12,350.0,Hotel room,No smoking & No children under 10,3.0,5.0,2.3,Dayton
+Dayton Stay 13,208.0,,,,,2.5,Dayton
+Dayton Stay 14,447.0,Hotel room,No pets,1.0,2.0,4.2,Dayton
+Dayton Stay 15,180.0,Entire home/apt,No pets,3.0,6.0,2.5,Dayton
+Dayton Stay 16,273.0,Hotel room,No smoking & No pets,3.0,3.0,4.1,Dayton
+Dayton Stay 17,91.0,Shared room,,3.0,6.0,4.1,Dayton
+Dayton Stay 18,246.0,Shared room,No children under 10 & No pets,4.0,3.0,2.4,Dayton
+Dayton Stay 19,76.0,Shared room,No smoking & No parties,4.0,1.0,2.1,Dayton
+Dayton Stay 20,310.0,,,,,3.6,Dayton
+Dayton Stay 21,108.0,Private room,,2.0,6.0,3.3,Dayton
+Dayton Stay 22,359.0,Entire home/apt,,1.0,2.0,2.0,Dayton
+Dayton Stay 23,161.0,Private room,No children under 10,2.0,2.0,4.6,Dayton
+Dayton Stay 24,428.0,Hotel room,No pets,1.0,2.0,4.0,Dayton
+Miami Stay 0,195.0,Hotel room,,3.0,4.0,4.6,Miami
+Miami Stay 1,390.0,Hotel room,,3.0,6.0,2.0,Miami
+Miami Stay 2,405.0,Hotel room,No children under 10 & No parties,1.0,3.0,3.4,Miami
+Miami Stay 3,243.0,Shared room,No smoking & No visitors,1.0,1.0,3.4,Miami
+Miami Stay 4,85.0,Hotel room,No parties,3.0,6.0,3.3,Miami
+Miami Stay 5,80.0,Hotel room,No children under 10 & No visitors,3.0,5.0,3.8,Miami
+Miami Stay 6,217.0,Hotel room,No parties & No visitors,1.0,4.0,2.4,Miami
+Miami Stay 7,216.0,,,,,2.7,Miami
+Miami Stay 8,214.0,Entire home/apt,No pets,3.0,1.0,2.0,Miami
+Miami Stay 9,254.0,,,,,3.7,Miami
+Miami Stay 10,363.0,Private room,No visitors,4.0,3.0,3.2,Miami
+Miami Stay 11,89.0,,,,,4.4,Miami
+Miami Stay 12,290.0,Private room,,3.0,3.0,4.2,Miami
+Miami Stay 13,348.0,Entire home/apt,No smoking,3.0,3.0,3.2,Miami
+Miami Stay 14,424.0,Entire home/apt,No pets,3.0,3.0,2.4,Miami
+Miami Stay 15,444.0,Entire home/apt,No smoking & No visitors,3.0,2.0,4.8,Miami
+Miami Stay 16,93.0,,,,,2.8,Miami
+Miami Stay 17,209.0,,,,,3.7,Miami
+Miami Stay 18,224.0,Entire home/apt,No children under 10 & No visitors,3.0,1.0,3.0,Miami
+Miami Stay 19,52.0,Shared room,No smoking,3.0,1.0,3.7,Miami
+Miami Stay 20,161.0,Hotel room,,3.0,1.0,3.6,Miami
+Miami Stay 21,170.0,Shared room,,2.0,1.0,4.2,Miami
+Miami Stay 22,441.0,Hotel room,No parties,2.0,6.0,3.6,Miami
+Miami Stay 23,180.0,Shared room,No visitors & No pets,4.0,5.0,3.7,Miami
+Miami Stay 24,141.0,Entire home/apt,,1.0,2.0,4.4,Miami
+Tampa Stay 0,264.0,Shared room,,4.0,4.0,4.5,Tampa
+Tampa Stay 1,191.0,Hotel room,,1.0,6.0,2.3,Tampa
+Tampa Stay 2,405.0,,,,,4.4,Tampa
+Tampa Stay 3,387.0,Private room,No smoking & No children under 10,3.0,3.0,2.1,Tampa
+Tampa Stay 4,260.0,Shared room,,2.0,5.0,2.3,Tampa
+Tampa Stay 5,270.0,,,,,2.7,Tampa
+Tampa Stay 6,90.0,Hotel room,No smoking & No pets,4.0,3.0,5.0,Tampa
+Tampa Stay 7,123.0,Hotel room,No parties,3.0,4.0,4.4,Tampa
+Tampa Stay 8,134.0,Entire home/apt,No smoking & No visitors,4.0,1.0,2.2,Tampa
+Tampa Stay 9,163.0,,,,,4.0,Tampa
+Tampa Stay 10,251.0,Hotel room,No visitors,2.0,5.0,4.6,Tampa
+Tampa Stay 11,294.0,Private room,No pets,1.0,5.0,5.0,Tampa
+Tampa Stay 12,325.0,Private room,No pets,2.0,5.0,3.9,Tampa
+Tampa Stay 13,418.0,Private room,,4.0,6.0,4.5,Tampa
+Tampa Stay 14,240.0,Hotel room,No children under 10,2.0,2.0,2.7,Tampa
+Tampa Stay 15,,,,,,3.4,Tampa
+Tampa Stay 16,421.0,Hotel room,No visitors & No smoking,4.0,1.0,3.7,Tampa
+Tampa Stay 17,306.0,Hotel room,,1.0,5.0,4.8,Tampa
+Tampa Stay 18,104.0,Private room,No visitors,3.0,2.0,3.1,Tampa
+Tampa Stay 19,357.0,Private room,No pets & No parties,1.0,2.0,4.9,Tampa
+Tampa Stay 20,421.0,Entire home/apt,,3.0,1.0,3.8,Tampa
+Tampa Stay 21,95.0,Entire home/apt,No children under 10,4.0,6.0,3.3,Tampa
+Tampa Stay 22,48.0,,,,,4.5,Tampa
+Tampa Stay 23,384.0,Hotel room,No children under 10,3.0,5.0,3.4,Tampa
+Tampa Stay 24,187.0,Shared room,No smoking,1.0,1.0,4.7,Tampa
+Orlando Stay 0,442.0,Entire home/apt,No visitors & No smoking,4.0,1.0,4.4,Orlando
+Orlando Stay 1,101.0,Shared room,,4.0,1.0,4.6,Orlando
+Orlando Stay 2,312.0,Private room,No parties,1.0,6.0,3.0,Orlando
+Orlando Stay 3,40.0,Hotel room,No children under 10 & No parties,1.0,1.0,2.5,Orlando
+Orlando Stay 4,159.0,Private room,,3.0,3.0,3.2,Orlando
+Orlando Stay 5,70.0,Shared room,No parties,4.0,2.0,4.1,Orlando
+Orlando Stay 6,306.0,Entire home/apt,,3.0,4.0,2.6,Orlando
+Orlando Stay 7,270.0,Private room,No smoking,3.0,6.0,3.2,Orlando
+Orlando Stay 8,157.0,Hotel room,No visitors & No smoking,1.0,1.0,2.3,Orlando
+Orlando Stay 9,317.0,Entire home/apt,No smoking,1.0,6.0,4.1,Orlando
+Orlando Stay 10,56.0,Private room,,2.0,5.0,3.6,Orlando
+Orlando Stay 11,357.0,Hotel room,No parties,3.0,3.0,2.4,Orlando
+Orlando Stay 12,213.0,Hotel room,,4.0,3.0,4.9,Orlando
+Orlando Stay 13,278.0,Entire home/apt,No parties,2.0,4.0,2.9,Orlando
+Orlando Stay 14,335.0,Shared room,No smoking & No parties,1.0,1.0,5.0,Orlando
+Orlando Stay 15,416.0,Private room,,2.0,4.0,2.5,Orlando
+Orlando Stay 16,317.0,,,,,2.0,Orlando
+Orlando Stay 17,173.0,,,,,3.1,Orlando
+Orlando Stay 18,205.0,Private room,,3.0,6.0,3.8,Orlando
+Orlando Stay 19,379.0,Entire home/apt,No parties & No smoking,4.0,4.0,4.0,Orlando
+Orlando Stay 20,287.0,Private room,,4.0,5.0,5.0,Orlando
+Orlando Stay 21,42.0,Shared room,,2.0,6.0,3.8,Orlando
+Orlando Stay 22,233.0,Entire home/apt,No smoking & No parties,3.0,1.0,4.7,Orlando
+Orlando Stay 23,99.0,Private room,No pets,1.0,2.0,3.7,Orlando
+Orlando Stay 24,235.0,Shared room,,3.0,4.0,3.7,Orlando
+Sarasota Stay 0,384.0,Hotel room,,3.0,4.0,3.2,Sarasota
+Sarasota Stay 1,257.0,Private room,,2.0,3.0,2.5,Sarasota
+Sarasota Stay 2,378.0,Private room,No parties & No visitors,2.0,2.0,2.7,Sarasota
+Sarasota Stay 3,115.0,Hotel room,,4.0,3.0,4.1,Sarasota
+Sarasota Stay 4,203.0,Entire home/apt,,1.0,5.0,4.8,Sarasota
+Sarasota Stay 5,49.0,Entire home/apt,No smoking & No children under 10,1.0,3.0,2.7,Sarasota
+Sarasota Stay 6,341.0,Hotel room,No pets & No children under 10,4.0,5.0,3.3,Sarasota
+Sarasota Stay 7,316.0,Private room,No children under 10 & No smoking,3.0,2.0,2.6,Sarasota
+Sarasota Stay 8,331.0,Hotel room,No parties,4.0,4.0,2.7,Sarasota
+Sarasota Stay 9,403.0,Entire home/apt,No visitors,4.0,6.0,2.8,Sarasota
+Sarasota Stay 10,194.0,Hotel room,No pets & No visitors,1.0,4.0,3.5,Sarasota
+Sarasota Stay 11,296.0,,,,,2.3,Sarasota
+Sarasota Stay 12,287.0,Entire home/apt,,2.0,4.0,3.3,Sarasota
+Sarasota Stay 13,218.0,Hotel room,No pets & No children under 10,4.0,5.0,2.4,Sarasota
+Sarasota Stay 14,49.0,Entire home/apt,No pets,2.0,3.0,4.3,Sarasota
+Sarasota Stay 15,204.0,Hotel room,No children under 10,1.0,2.0,2.4,Sarasota
+Sarasota Stay 16,145.0,Shared room,,4.0,3.0,3.2,Sarasota
+Sarasota Stay 17,328.0,Hotel room,No children under 10 & No smoking,2.0,3.0,4.1,Sarasota
+Sarasota Stay 18,408.0,Private room,No children under 10 & No smoking,3.0,3.0,3.2,Sarasota
+Sarasota Stay 19,290.0,Shared room,No children under 10,3.0,2.0,2.8,Sarasota
+Sarasota Stay 20,159.0,Private room,No pets,2.0,4.0,4.2,Sarasota
+Sarasota Stay 21,320.0,Entire home/apt,,4.0,1.0,5.0,Sarasota
+Sarasota Stay 22,298.0,Shared room,,1.0,1.0,3.1,Sarasota
+Sarasota Stay 23,154.0,Hotel room,,4.0,3.0,2.8,Sarasota
+Sarasota Stay 24,117.0,Hotel room,,1.0,2.0,4.1,Sarasota

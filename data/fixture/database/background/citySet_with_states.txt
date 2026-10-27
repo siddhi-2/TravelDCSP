@@ -1,0 +1,11 @@
+Austin	Texas
+Dallas	Texas
+Houston	Texas
+Plano	Texas
+Columbus	Ohio
+Cleveland	Ohio
+Dayton	Ohio
+Miami	Florida
+Tampa	Florida
+Orlando	Florida
+Sarasota	Florida

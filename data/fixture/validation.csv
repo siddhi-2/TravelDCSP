@@ -1,0 +1,5 @@
+org,dest,days,visiting_city_number,date,people_number,local_constraint,budget,query,level
+Houston,Columbus,3,1,"['2022-03-01', '2022-03-02', '2022-03-03']",2,"{'house rule': None, 'cuisine': None, 'room type': None, 'transportation': 'no flight'}",2500,Plan a 3-day trip from Houston to Columbus for 2 people with a budget of $2500.,easy
+Orlando,Ohio,5,2,"['2022-03-01', '2022-03-02', '2022-03-03', '2022-03-04', '2022-03-05']",3,"{'house rule': None, 'cuisine': ['Indian'], 'room type': 'entire room', 'transportation': None}",6500,Plan a 5-day trip from Orlando to Ohio for 3 people with a budget of $6500.,medium
+Cleveland,Texas,7,3,"['2022-03-01', '2022-03-02', '2022-03-03', '2022-03-04', '2022-03-05', '2022-03-06', '2022-03-07']",4,"{'house rule': 'parties', 'cuisine': ['French', 'Mexican'], 'room type': None, 'transportation': 'no self-driving'}",12000,Plan a 7-day trip from Cleveland to Texas for 4 people with a budget of $12000.,hard
+Austin,Miami,3,1,"['2022-03-01', '2022-03-02', '2022-03-03']",5,"{'house rule': None, 'cuisine': None, 'room type': None, 'transportation': None}",900,Plan a 3-day trip from Austin to Miami for 5 people with a budget of $900.,easy

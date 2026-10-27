@@ -1,0 +1,226 @@
+abt_converged,abt_cost,abt_final_pass,abt_messages,abt_nogoods,abt_reason,budget,cities,constraints,days,domain_sizes,idx,level,neg_cost,neg_final_pass,people,split
+True,1647.0,True,5,1,,1700.0,1,,3,"{'transport': 1, 'hotel': 5, 'food': 12, 'attraction': 1}",0,easy,1797.0,False,1,train
+False,2725.0,False,38,17,proved_infeasible,900.0,1,,3,"{'transport': 2, 'hotel': 6, 'food': 12, 'attraction': 1}",1,easy,1298.0,False,1,train
+True,1395.0,True,13,5,,1400.0,1,,3,"{'transport': 5, 'hotel': 6, 'food': 12, 'attraction': 1}",2,easy,1366.55,True,1,train
+True,1832.75,True,20,8,,1900.0,1,,3,"{'transport': 2, 'hotel': 6, 'food': 12, 'attraction': 1}",3,easy,1786.75,True,1,train
+True,1593.0,True,5,1,,1600.0,1,,3,"{'transport': 13, 'hotel': 2, 'food': 12, 'attraction': 1}",4,easy,1663.0,False,1,train
+True,1910.85,True,360,163,,3100.0,2,,5,"{'transport': 13, 'hotel': 12, 'food': 12, 'attraction': 1}",5,easy,2404.85,True,1,train
+True,3375.2,True,32,14,,3600.0,2,,5,"{'transport': 2, 'hotel': 11, 'food': 12, 'attraction': 1}",6,easy,3243.0,True,1,train
+True,2215.0,True,17,7,,2300.0,2,,5,"{'transport': 7, 'hotel': 12, 'food': 12, 'attraction': 1}",7,easy,1798.95,True,1,train
+True,1298.41,True,34,15,,1400.0,2,,5,"{'transport': 2, 'hotel': 7, 'food': 12, 'attraction': 1}",8,easy,1895.4,False,1,train
+True,3387.3,True,13,5,,3400.0,2,,5,"{'transport': 2, 'hotel': 7, 'food': 12, 'attraction': 1}",9,easy,2633.1,True,1,train
+True,7697.0,True,13,5,,7700.0,3,,7,"{'transport': 2, 'hotel': 12, 'food': 12, 'attraction': 1}",10,easy,5630.85,True,1,train
+True,2246.15,True,30,13,,3000.0,3,,7,"{'transport': 2, 'hotel': 12, 'food': 12, 'attraction': 1}",11,easy,2979.2,True,1,train
+False,4174.0,False,17,7,empty_domain:attraction,4200.0,3,,7,"{'transport': 4, 'hotel': 12, 'food': 12, 'attraction': 0}",12,easy,4018.25,False,1,train
+True,2528.4,True,30,13,,3600.0,3,,7,"{'transport': 2, 'hotel': 12, 'food': 12, 'attraction': 1}",13,easy,3061.35,True,1,train
+True,2737.28,True,26,11,,5700.0,3,,7,"{'transport': 2, 'hotel': 10, 'food': 12, 'attraction': 1}",14,easy,3716.5,True,1,train
+True,2233.15,True,38,17,,2300.0,1,cuisine,3,"{'transport': 2, 'hotel': 11, 'food': 12, 'attraction': 1}",15,medium,1897.15,True,2,train
+True,4676.0,True,13,5,,4700.0,1,room rule,3,"{'transport': 7, 'hotel': 6, 'food': 12, 'attraction': 1}",16,medium,1683.9,True,2,train
+True,6021.8,True,22,8,,6500.0,1,room rule,3,"{'transport': 2, 'hotel': 4, 'food': 12, 'attraction': 1}",17,medium,5813.8,True,8,train
+True,1946.25,True,236,98,,2000.0,1,room type,3,"{'transport': 13, 'hotel': 4, 'food': 12, 'attraction': 1}",18,medium,3108.0,False,2,train
+True,1043.8,True,48,19,,1100.0,1,cuisine,3,"{'transport': 4, 'hotel': 3, 'food': 12, 'attraction': 1}",19,medium,1325.8,False,2,train
+True,14836.4,True,3,0,,15100.0,2,room type,5,"{'transport': 3, 'hotel': 4, 'food': 12, 'attraction': 1}",20,medium,13946.4,True,6,train
+True,11919.0,True,3,0,,12300.0,2,room rule,5,"{'transport': 9, 'hotel': 12, 'food': 12, 'attraction': 1}",21,medium,11663.0,True,4,train
+True,13666.0,True,3,0,,13900.0,2,cuisine,5,"{'transport': 4, 'hotel': 12, 'food': 12, 'attraction': 1}",22,medium,11438.7,True,7,train
+True,4637.0,True,13,5,,4700.0,2,cuisine,5,"{'transport': 13, 'hotel': 12, 'food': 12, 'attraction': 1}",23,medium,4498.95,True,2,train
+True,13280.0,True,3,0,,13800.0,2,room type,5,"{'transport': 3, 'hotel': 6, 'food': 12, 'attraction': 1}",24,medium,10068.0,True,4,train
+True,5337.75,True,30,13,,5800.0,3,room rule,7,"{'transport': 2, 'hotel': 12, 'food': 12, 'attraction': 1}",25,medium,6480.9,False,4,train
+True,12497.0,True,3,0,,12700.0,3,room type,7,"{'transport': 2, 'hotel': 4, 'food': 12, 'attraction': 1}",26,medium,12427.0,True,5,train
+True,9480.0,True,13,5,,9500.0,3,cuisine,7,"{'transport': 2, 'hotel': 9, 'food': 12, 'attraction': 1}",27,medium,8077.4,True,2,train
+True,14736.0,True,3,0,,19400.0,3,room type,7,"{'transport': 7, 'hotel': 6, 'food': 12, 'attraction': 1}",28,medium,14392.0,True,4,train
+True,4432.0,True,21,9,,4500.0,3,cuisine,7,"{'transport': 7, 'hotel': 12, 'food': 12, 'attraction': 1}",29,medium,4398.0,True,2,train
+True,1448.0,True,18,7,,1500.0,1,cuisine|room rule|transportation,3,"{'transport': 4, 'hotel': 3, 'food': 10, 'attraction': 1}",30,hard,1808.0,False,2,train
+False,0.0,False,0,0,empty_domain:transport,3100.0,1,room rule|room type|transportation,3,"{'transport': 0, 'hotel': 2, 'food': 12, 'attraction': 1}",31,hard,3052.0,True,3,train
+True,1270.7,True,16,6,,1300.0,1,room rule|room type|transportation,3,"{'transport': 2, 'hotel': 3, 'food': 12, 'attraction': 1}",32,hard,1518.7,False,2,train
+True,1262.0,True,17,7,,1400.0,1,cuisine|room rule|room type,3,"{'transport': 5, 'hotel': 8, 'food': 6, 'attraction': 1}",33,hard,1053.65,True,2,train
+True,3349.0,True,3,0,,3600.0,1,cuisine|room type|transportation,3,"{'transport': 10, 'hotel': 1, 'food': 7, 'attraction': 1}",34,hard,3559.0,True,5,train
+False,7836.0,False,5,1,empty_domain:hotel,7900.0,2,room rule|room type|transportation,5,"{'transport': 11, 'hotel': 0, 'food': 12, 'attraction': 1}",35,hard,10372.0,False,3,train
+False,14032.4,False,23,10,proved_infeasible,8500.0,2,cuisine|room rule|room type,5,"{'transport': 2, 'hotel': 3, 'food': 12, 'attraction': 1}",36,hard,13349.8,False,7,train
+True,3539.3,True,20,8,,3600.0,2,cuisine|room type|transportation,5,"{'transport': 2, 'hotel': 6, 'food': 12, 'attraction': 1}",37,hard,3104.3,True,3,train
+True,2743.8,True,18,7,,2800.0,2,room rule|room type|transportation,5,"{'transport': 2, 'hotel': 3, 'food': 12, 'attraction': 1}",38,hard,4052.7,False,2,train
+True,6999.0,True,13,5,,7100.0,2,cuisine|room rule|transportation,5,"{'transport': 2, 'hotel': 7, 'food': 12, 'attraction': 1}",39,hard,5893.0,True,5,train
+True,12760.7,True,266,103,,15100.0,3,cuisine|room rule|room type,7,"{'transport': 11, 'hotel': 2, 'food': 12, 'attraction': 1}",40,hard,12256.7,True,5,train
+False,10490.0,False,22,8,empty_domain:hotel,11000.0,3,room rule|room type|transportation,7,"{'transport': 2, 'hotel': 0, 'food': 12, 'attraction': 1}",41,hard,13322.0,False,4,train
+False,3666.09,False,20,8,empty_domain:attraction,3800.0,3,cuisine|room type|transportation,7,"{'transport': 2, 'hotel': 6, 'food': 12, 'attraction': 0}",42,hard,4811.85,False,2,train
+True,4390.35,True,26,11,,5500.0,3,cuisine|room type|transportation,7,"{'transport': 2, 'hotel': 10, 'food': 12, 'attraction': 1}",43,hard,4964.6,True,2,train
+True,4374.42,True,28,11,,5100.0,3,cuisine|room rule|transportation,7,"{'transport': 2, 'hotel': 8, 'food': 12, 'attraction': 1}",44,hard,4637.05,True,2,train
+True,1341.0,True,17,7,,1400.0,1,,3,"{'transport': 4, 'hotel': 10, 'food': 12, 'attraction': 1}",45,easy,985.3,True,1,validation
+True,1375.25,True,32,14,,1400.0,1,,3,"{'transport': 3, 'hotel': 11, 'food': 12, 'attraction': 1}",46,easy,1303.25,True,1,validation
+True,1058.0,True,17,7,,1100.0,1,,3,"{'transport': 5, 'hotel': 8, 'food': 12, 'attraction': 1}",47,easy,818.3,True,1,validation
+True,3156.0,True,5,1,,3200.0,1,,3,"{'transport': 1, 'hotel': 12, 'food': 12, 'attraction': 1}",48,easy,3164.0,True,1,validation
+False,900.0,False,17,7,empty_domain:attraction,900.0,1,,3,"{'transport': 13, 'hotel': 8, 'food': 12, 'attraction': 0}",49,easy,771.25,False,1,validation
+True,2991.0,True,5,1,,3000.0,1,,3,"{'transport': 5, 'hotel': 9, 'food': 12, 'attraction': 1}",50,easy,1846.0,True,1,validation
+True,1818.0,True,3,0,,1900.0,1,,3,"{'transport': 3, 'hotel': 12, 'food': 12, 'attraction': 1}",51,easy,1502.5,True,1,validation
+True,1354.0,True,28,11,,1400.0,1,,3,"{'transport': 4, 'hotel': 8, 'food': 12, 'attraction': 1}",52,easy,1393.0,True,1,validation
+False,2036.0,False,5,1,empty_domain:attraction,2100.0,1,,3,"{'transport': 5, 'hotel': 5, 'food': 12, 'attraction': 0}",53,easy,2005.0,False,1,validation
+True,986.0,True,9,3,,1000.0,1,,3,"{'transport': 10, 'hotel': 10, 'food': 12, 'attraction': 1}",54,easy,866.0,True,1,validation
+True,1795.0,True,13,5,,1800.0,1,,3,"{'transport': 9, 'hotel': 6, 'food': 12, 'attraction': 1}",55,easy,1453.55,True,1,validation
+True,1197.0,True,13,5,,1200.0,1,,3,"{'transport': 1, 'hotel': 7, 'food': 12, 'attraction': 1}",56,easy,1521.0,False,1,validation
+True,1129.0,True,9,3,,1200.0,1,,3,"{'transport': 3, 'hotel': 9, 'food': 12, 'attraction': 1}",57,easy,1100.9,True,1,validation
+True,1240.0,True,13,5,,1800.0,1,,3,"{'transport': 3, 'hotel': 7, 'food': 12, 'attraction': 1}",58,easy,818.5,True,1,validation
+True,1271.0,True,174,72,,1300.0,1,,3,"{'transport': 13, 'hotel': 8, 'food': 12, 'attraction': 1}",59,easy,933.9,True,1,validation
+True,1118.0,True,9,3,,1200.0,1,,3,"{'transport': 5, 'hotel': 7, 'food': 12, 'attraction': 1}",60,easy,851.9,True,1,validation
+False,0.0,False,0,0,empty_domain:transport,1500.0,1,,3,"{'transport': 0, 'hotel': 8, 'food': 12, 'attraction': 1}",61,easy,782.0,True,1,validation
+True,1400.0,True,9,3,,2200.0,1,,3,"{'transport': 6, 'hotel': 7, 'food': 12, 'attraction': 1}",62,easy,1365.0,True,1,validation
+True,889.0,True,9,3,,900.0,1,,3,"{'transport': 13, 'hotel': 7, 'food': 12, 'attraction': 1}",63,easy,825.0,True,1,validation
+True,1745.0,True,5,1,,1800.0,1,,3,"{'transport': 8, 'hotel': 5, 'food': 12, 'attraction': 1}",64,easy,1431.0,True,1,validation
+True,2871.0,True,30,13,,2900.0,2,,5,"{'transport': 4, 'hotel': 12, 'food': 12, 'attraction': 1}",65,easy,2696.05,True,1,validation
+True,1776.65,True,30,13,,1900.0,2,,5,"{'transport': 2, 'hotel': 12, 'food': 12, 'attraction': 1}",66,easy,1749.65,True,1,validation
+True,3817.0,True,3,0,,3900.0,2,,5,"{'transport': 2, 'hotel': 12, 'food': 12, 'attraction': 1}",67,easy,3037.0,True,1,validation
+True,4118.4,True,13,5,,4200.0,2,,5,"{'transport': 2, 'hotel': 12, 'food': 12, 'attraction': 1}",68,easy,3677.35,True,1,validation
+True,4500.0,True,5,1,,4600.0,2,,5,"{'transport': 7, 'hotel': 12, 'food': 12, 'attraction': 1}",69,easy,2146.8,True,1,validation
+True,1624.1,True,30,13,,2700.0,2,,5,"{'transport': 2, 'hotel': 12, 'food': 12, 'attraction': 1}",70,easy,1930.1,True,1,validation
+True,3921.0,True,17,7,,4000.0,2,,5,"{'transport': 2, 'hotel': 8, 'food': 12, 'attraction': 1}",71,easy,3446.45,True,1,validation
+True,1872.0,True,17,7,,2200.0,2,,5,"{'transport': 7, 'hotel': 10, 'food': 12, 'attraction': 1}",72,easy,1940.0,True,1,validation
+True,2576.05,True,30,13,,2600.0,2,,5,"{'transport': 2, 'hotel': 12, 'food': 12, 'attraction': 1}",73,easy,3132.05,False,1,validation
+True,1952.75,True,30,13,,2000.0,2,,5,"{'transport': 2, 'hotel': 9, 'food': 12, 'attraction': 1}",74,easy,1974.75,True,1,validation
+False,3901.0,False,5,1,empty_domain:attraction,4300.0,2,,5,"{'transport': 13, 'hotel': 10, 'food': 12, 'attraction': 0}",75,easy,2816.5,False,1,validation
+True,1695.25,True,26,11,,5000.0,2,,5,"{'transport': 2, 'hotel': 10, 'food': 12, 'attraction': 1}",76,easy,3250.95,True,1,validation
+True,4166.0,True,13,5,,4200.0,2,,5,"{'transport': 6, 'hotel': 10, 'food': 12, 'attraction': 1}",77,easy,2911.0,True,1,validation
+True,3681.0,True,3,0,,4200.0,2,,5,"{'transport': 3, 'hotel': 11, 'food': 12, 'attraction': 1}",78,easy,3625.0,True,1,validation
+True,2816.0,True,5,1,,2900.0,2,,5,"{'transport': 10, 'hotel': 7, 'food': 12, 'attraction': 1}",79,easy,2451.75,True,1,validation
+True,2733.25,True,20,8,,4700.0,2,,5,"{'transport': 2, 'hotel': 6, 'food': 12, 'attraction': 1}",80,easy,4219.8,True,1,validation
+True,1622.8,True,26,11,,2100.0,2,,5,"{'transport': 2, 'hotel': 10, 'food': 12, 'attraction': 1}",81,easy,1946.8,True,1,validation
+False,0.0,False,0,0,empty_domain:transport,3500.0,2,,5,"{'transport': 0, 'hotel': 10, 'food': 12, 'attraction': 1}",82,easy,3160.0,True,1,validation
+True,2843.6,True,9,3,,3500.0,2,,5,"{'transport': 2, 'hotel': 7, 'food': 12, 'attraction': 1}",83,easy,2825.6,True,1,validation
+False,1453.1,False,30,13,empty_domain:attraction,2600.0,2,,5,"{'transport': 2, 'hotel': 12, 'food': 12, 'attraction': 0}",84,easy,2551.05,False,1,validation
+True,1743.65,True,90,41,,1800.0,3,,7,"{'transport': 4, 'hotel': 12, 'food': 12, 'attraction': 1}",85,easy,2711.65,False,1,validation
+True,6074.0,True,21,9,,6100.0,3,,7,"{'transport': 2, 'hotel': 10, 'food': 12, 'attraction': 1}",86,easy,5999.65,True,1,validation
+False,0.0,False,0,0,empty_domain:transport,5800.0,3,,7,"{'transport': 0, 'hotel': 12, 'food': 12, 'attraction': 1}",87,easy,4723.0,True,1,validation
+False,6501.8,False,38,17,proved_infeasible,2400.0,3,,7,"{'transport': 2, 'hotel': 6, 'food': 12, 'attraction': 1}",88,easy,3292.8,False,1,validation
+True,2956.7,True,360,163,,3500.0,3,,7,"{'transport': 12, 'hotel': 12, 'food': 12, 'attraction': 1}",89,easy,3163.7,True,1,validation
+True,4956.3,True,17,7,,5100.0,3,,7,"{'transport': 5, 'hotel': 12, 'food': 12, 'attraction': 1}",90,easy,3118.46,True,1,validation
+True,7994.0,True,5,1,,8100.0,3,,7,"{'transport': 2, 'hotel': 10, 'food': 12, 'attraction': 1}",91,easy,5951.9,True,1,validation
+True,2826.0,True,21,9,,2900.0,3,,7,"{'transport': 6, 'hotel': 12, 'food': 12, 'attraction': 1}",92,easy,2711.65,True,1,validation
+True,5544.0,True,17,7,,5600.0,3,,7,"{'transport': 4, 'hotel': 12, 'food': 12, 'attraction': 1}",93,easy,4545.65,True,1,validation
+True,4127.0,True,17,7,,4200.0,3,,7,"{'transport': 8, 'hotel': 12, 'food': 12, 'attraction': 1}",94,easy,4139.9,True,1,validation
+True,6418.0,True,3,0,,6500.0,3,,7,"{'transport': 12, 'hotel': 12, 'food': 12, 'attraction': 1}",95,easy,6491.0,True,1,validation
+True,5796.0,True,5,1,,5900.0,3,,7,"{'transport': 8, 'hotel': 12, 'food': 12, 'attraction': 1}",96,easy,5496.0,True,1,validation
+True,4043.0,True,17,7,,4100.0,3,,7,"{'transport': 5, 'hotel': 12, 'food': 12, 'attraction': 1}",97,easy,3395.65,True,1,validation
+True,2530.95,True,90,41,,3200.0,3,,7,"{'transport': 5, 'hotel': 12, 'food': 12, 'attraction': 1}",98,easy,2541.95,True,1,validation
+True,7195.0,True,3,0,,7200.0,3,,7,"{'transport': 13, 'hotel': 10, 'food': 12, 'attraction': 1}",99,easy,5160.25,True,1,validation
+True,2652.0,True,30,13,,4700.0,3,,7,"{'transport': 2, 'hotel': 12, 'food': 12, 'attraction': 1}",100,easy,4091.05,True,1,validation
+False,0.0,False,0,0,empty_domain:transport,2500.0,3,,7,"{'transport': 0, 'hotel': 12, 'food': 12, 'attraction': 1}",101,easy,2292.75,True,1,validation
+True,6754.0,True,3,0,,7800.0,3,,7,"{'transport': 2, 'hotel': 12, 'food': 12, 'attraction': 1}",102,easy,6681.0,True,1,validation
+True,6499.6,True,3,0,,6600.0,3,,7,"{'transport': 6, 'hotel': 11, 'food': 12, 'attraction': 1}",103,easy,4228.93,True,1,validation
+True,8446.0,True,5,1,,8500.0,3,,7,"{'transport': 2, 'hotel': 10, 'food': 12, 'attraction': 1}",104,easy,5850.1,True,1,validation
+True,11043.0,True,3,0,,11300.0,1,room rule,3,"{'transport': 3, 'hotel': 4, 'food': 12, 'attraction': 1}",105,medium,3980.35,True,4,validation
+True,1845.05,True,28,12,,1900.0,1,room type,3,"{'transport': 2, 'hotel': 9, 'food': 12, 'attraction': 1}",106,medium,1859.05,True,2,validation
+True,1564.0,True,5,1,,1600.0,1,cuisine,3,"{'transport': 3, 'hotel': 9, 'food': 12, 'attraction': 1}",107,medium,1382.0,True,2,validation
+True,7459.0,True,3,0,,7600.0,1,room type,3,"{'transport': 7, 'hotel': 5, 'food': 12, 'attraction': 1}",108,medium,5567.0,True,7,validation
+True,6912.0,True,5,1,,7000.0,1,cuisine,3,"{'transport': 13, 'hotel': 5, 'food': 12, 'attraction': 1}",109,medium,5753.4,True,8,validation
+True,4560.0,True,3,0,,4800.0,1,room type,3,"{'transport': 4, 'hotel': 5, 'food': 12, 'attraction': 1}",110,medium,5132.0,False,5,validation
+True,5466.0,True,3,0,,5500.0,1,room rule,3,"{'transport': 8, 'hotel': 12, 'food': 12, 'attraction': 1}",111,medium,5192.0,True,4,validation
+True,3598.0,True,3,0,,3700.0,1,cuisine,3,"{'transport': 2, 'hotel': 5, 'food': 12, 'attraction': 1}",112,medium,2793.8,True,4,validation
+True,2778.0,True,3,0,,2900.0,1,room type,3,"{'transport': 4, 'hotel': 5, 'food': 12, 'attraction': 1}",113,medium,1764.0,True,2,validation
+True,6232.0,True,17,7,,6600.0,1,cuisine,3,"{'transport': 1, 'hotel': 12, 'food': 12, 'attraction': 1}",114,medium,6534.0,True,8,validation
+True,2482.0,True,21,9,,2500.0,1,cuisine,3,"{'transport': 3, 'hotel': 10, 'food': 12, 'attraction': 1}",115,medium,2404.15,True,2,validation
+True,2614.0,True,5,1,,2700.0,1,room rule,3,"{'transport': 5, 'hotel': 6, 'food': 12, 'attraction': 1}",116,medium,2118.9,True,3,validation
+True,2631.15,True,58,23,,2700.0,1,room type,3,"{'transport': 7, 'hotel': 2, 'food': 12, 'attraction': 1}",117,medium,3019.15,False,4,validation
+True,6471.0,True,3,0,,7000.0,1,cuisine,3,"{'transport': 4, 'hotel': 9, 'food': 12, 'attraction': 1}",118,medium,6021.0,True,5,validation
+False,2687.85,False,23,10,proved_infeasible,1000.0,1,room rule,3,"{'transport': 2, 'hotel': 3, 'food': 12, 'attraction': 1}",119,medium,2637.85,False,2,validation
+True,9478.0,True,3,0,,9500.0,1,room rule,3,"{'transport': 3, 'hotel': 6, 'food': 12, 'attraction': 1}",120,medium,5961.0,True,7,validation
+True,1660.2,True,48,19,,1700.0,1,room type,3,"{'transport': 4, 'hotel': 3, 'food': 12, 'attraction': 1}",121,medium,2036.2,False,2,validation
+True,1501.2,True,90,37,,1600.0,1,room type,3,"{'transport': 6, 'hotel': 4, 'food': 12, 'attraction': 1}",122,medium,2257.2,False,3,validation
+True,1698.0,True,10,3,,1700.0,1,room type,3,"{'transport': 4, 'hotel': 2, 'food': 12, 'attraction': 1}",123,medium,1357.85,True,2,validation
+False,4889.0,False,1892,908,proved_infeasible,1900.0,1,room type,3,"{'transport': 13, 'hotel': 2, 'food': 12, 'attraction': 1}",124,medium,3156.0,False,2,validation
+True,3820.0,True,9,3,,3900.0,2,cuisine,5,"{'transport': 2, 'hotel': 12, 'food': 12, 'attraction': 1}",125,medium,3509.85,True,2,validation
+True,8343.0,True,3,0,,8500.0,2,cuisine,5,"{'transport': 13, 'hotel': 12, 'food': 12, 'attraction': 1}",126,medium,8445.0,True,3,validation
+True,6289.9,True,3,0,,6300.0,2,cuisine,5,"{'transport': 3, 'hotel': 11, 'food': 12, 'attraction': 1}",127,medium,3504.54,True,2,validation
+True,3289.25,True,86,38,,3400.0,2,room type,5,"{'transport': 5, 'hotel': 10, 'food': 12, 'attraction': 1}",128,medium,3815.25,False,2,validation
+True,11295.4,True,26,11,,12000.0,2,room rule,5,"{'transport': 2, 'hotel': 10, 'food': 12, 'attraction': 1}",129,medium,10879.4,True,8,validation
+False,2634.13,False,90,37,empty_domain:hotel,2700.0,2,room type,5,"{'transport': 4, 'hotel': 0, 'food': 12, 'attraction': 1}",130,medium,10224.13,False,2,validation
+True,23155.0,True,3,0,,23400.0,2,room rule,5,"{'transport': 13, 'hotel': 6, 'food': 12, 'attraction': 1}",131,medium,9565.2,True,7,validation
+True,1714.9,True,26,11,,2000.0,2,cuisine,5,"{'transport': 2, 'hotel': 10, 'food': 12, 'attraction': 1}",132,medium,1990.9,True,2,validation
+True,15926.0,True,9,3,,16100.0,2,room rule,5,"{'transport': 2, 'hotel': 10, 'food': 12, 'attraction': 1}",133,medium,14870.3,True,7,validation
+False,5700.3,False,9,3,empty_domain:hotel,5900.0,2,room type,5,"{'transport': 3, 'hotel': 0, 'food': 12, 'attraction': 1}",134,medium,4145.97,False,3,validation
+False,7473.3,False,5,1,empty_domain:hotel,7500.0,2,room type,5,"{'transport': 2, 'hotel': 0, 'food': 12, 'attraction': 1}",135,medium,4881.9,False,3,validation
+True,4088.0,True,5,1,,4200.0,2,room type,5,"{'transport': 2, 'hotel': 7, 'food': 12, 'attraction': 1}",136,medium,3904.6,True,3,validation
+True,2147.8,True,26,11,,2300.0,2,cuisine,5,"{'transport': 2, 'hotel': 10, 'food': 12, 'attraction': 1}",137,medium,2293.8,True,2,validation
+True,5888.0,True,21,9,,6000.0,2,cuisine,5,"{'transport': 2, 'hotel': 12, 'food': 12, 'attraction': 1}",138,medium,4580.4,True,2,validation
+True,6781.88,True,60,26,,6900.0,2,cuisine,5,"{'transport': 5, 'hotel': 6, 'food': 12, 'attraction': 1}",139,medium,11151.9,False,8,validation
+True,5975.85,True,26,11,,7200.0,2,cuisine,5,"{'transport': 2, 'hotel': 10, 'food': 12, 'attraction': 1}",140,medium,6402.85,True,5,validation
+False,3798.0,False,26,11,empty_domain:attraction,3900.0,2,room rule,5,"{'transport': 2, 'hotel': 10, 'food': 12, 'attraction': 0}",141,medium,3824.9,False,3,validation
+False,9959.0,False,3,0,empty_domain:attraction,15900.0,2,room rule,5,"{'transport': 2, 'hotel': 12, 'food': 12, 'attraction': 0}",142,medium,9707.0,False,4,validation
+True,4563.0,True,3,0,,4600.0,2,room rule,5,"{'transport': 3, 'hotel': 6, 'food': 12, 'attraction': 1}",143,medium,4299.0,True,2,validation
+True,5456.7,True,26,11,,5500.0,2,room type,5,"{'transport': 2, 'hotel': 10, 'food': 12, 'attraction': 1}",144,medium,7911.7,False,4,validation
+True,8024.0,True,3,0,,8300.0,3,cuisine,7,"{'transport': 5, 'hotel': 12, 'food': 12, 'attraction': 1}",145,medium,5401.1,True,2,validation
+True,4316.55,True,90,41,,4400.0,3,cuisine,7,"{'transport': 5, 'hotel': 12, 'food': 12, 'attraction': 1}",146,medium,4313.55,True,3,validation
+False,3911.9,False,30,13,empty_domain:attraction,4000.0,3,room rule,7,"{'transport': 2, 'hotel': 12, 'food': 12, 'attraction': 0}",147,medium,4634.9,False,3,validation
+True,8452.0,True,3,0,,8800.0,3,room type,7,"{'transport': 2, 'hotel': 12, 'food': 12, 'attraction': 1}",148,medium,8356.0,True,2,validation
+True,15345.0,True,3,0,,15600.0,3,cuisine,7,"{'transport': 2, 'hotel': 10, 'food': 12, 'attraction': 1}",149,medium,11847.0,True,4,validation
+True,8670.0,True,3,0,,8900.0,3,cuisine,7,"{'transport': 8, 'hotel': 12, 'food': 12, 'attraction': 1}",150,medium,8454.0,True,2,validation
+True,17566.0,True,3,0,,23800.0,3,room rule,7,"{'transport': 2, 'hotel': 6, 'food': 12, 'attraction': 1}",151,medium,17356.0,True,5,validation
+True,11486.0,True,90,41,,11700.0,3,room rule,7,"{'transport': 4, 'hotel': 12, 'food': 12, 'attraction': 1}",152,medium,16212.0,False,6,validation
+True,3827.95,True,90,41,,4100.0,3,cuisine,7,"{'transport': 5, 'hotel': 12, 'food': 12, 'attraction': 1}",153,medium,3929.95,True,2,validation
+True,3650.5,True,360,163,,7200.0,3,cuisine,7,"{'transport': 13, 'hotel': 12, 'food': 12, 'attraction': 1}",154,medium,6822.5,True,2,validation
+True,16066.0,True,3,0,,16800.0,3,room rule,7,"{'transport': 4, 'hotel': 12, 'food': 12, 'attraction': 1}",155,medium,15958.0,True,4,validation
+True,5430.8,True,5,1,,5500.0,3,room rule,7,"{'transport': 13, 'hotel': 8, 'food': 12, 'attraction': 1}",156,medium,5082.8,True,2,validation
+True,14464.6,True,5,1,,14600.0,3,room rule,7,"{'transport': 2, 'hotel': 5, 'food': 12, 'attraction': 1}",157,medium,14537.4,True,5,validation
+False,15759.0,False,3,0,empty_domain:hotel,16300.0,3,room type,7,"{'transport': 14, 'hotel': 0, 'food': 12, 'attraction': 1}",158,medium,14437.4,False,7,validation
+True,10580.0,True,3,0,,11900.0,3,room rule,7,"{'transport': 13, 'hotel': 12, 'food': 12, 'attraction': 1}",159,medium,10456.0,True,2,validation
+True,14662.2,True,5,1,,14900.0,3,room rule,7,"{'transport': 2, 'hotel': 10, 'food': 12, 'attraction': 1}",160,medium,11854.15,True,5,validation
+True,16940.0,True,9,3,,17000.0,3,room type,7,"{'transport': 2, 'hotel': 7, 'food': 12, 'attraction': 1}",161,medium,15937.1,True,8,validation
+True,7181.2,True,9,3,,7200.0,3,cuisine,7,"{'transport': 3, 'hotel': 9, 'food': 12, 'attraction': 1}",162,medium,5793.51,True,2,validation
+True,8269.0,True,5,1,,8400.0,3,room rule,7,"{'transport': 2, 'hotel': 12, 'food': 12, 'attraction': 1}",163,medium,7498.0,True,3,validation
+True,21477.76,True,30,13,,22200.0,3,cuisine,7,"{'transport': 2, 'hotel': 9, 'food': 12, 'attraction': 1}",164,medium,20508.6,True,8,validation
+True,2228.05,True,22,8,,2300.0,1,cuisine|room rule|room type,3,"{'transport': 2, 'hotel': 4, 'food': 11, 'attraction': 1}",165,hard,2438.05,False,3,validation
+False,1154.0,False,5,1,empty_domain:attraction,1200.0,1,room rule|room type|transportation,3,"{'transport': 3, 'hotel': 3, 'food': 12, 'attraction': 0}",166,hard,1386.0,False,2,validation
+True,2150.0,True,10,3,,2200.0,1,room rule|room type|transportation,3,"{'transport': 7, 'hotel': 2, 'food': 12, 'attraction': 1}",167,hard,2498.0,False,2,validation
+False,4950.0,False,213,92,proved_infeasible,1000.0,1,room rule|room type|transportation,3,"{'transport': 10, 'hotel': 6, 'food': 12, 'attraction': 1}",168,hard,1306.0,False,2,validation
+True,1550.0,True,13,5,,1600.0,1,cuisine|room rule|room type,3,"{'transport': 13, 'hotel': 7, 'food': 9, 'attraction': 1}",169,hard,1348.4,True,2,validation
+False,3566.0,False,368,168,proved_infeasible,2300.0,1,room rule|room type|transportation,3,"{'transport': 10, 'hotel': 2, 'food': 12, 'attraction': 1}",170,hard,3292.0,False,2,validation
+True,2089.1,True,10,3,,2100.0,1,room rule|room type|transportation,3,"{'transport': 2, 'hotel': 2, 'food': 12, 'attraction': 1}",171,hard,2266.1,False,3,validation
+False,4104.0,False,100,42,proved_infeasible,1400.0,1,cuisine|room rule|transportation,3,"{'transport': 6, 'hotel': 4, 'food': 9, 'attraction': 1}",172,hard,1934.0,False,2,validation
+False,2250.0,False,141,60,proved_infeasible,1400.0,1,cuisine|room rule|transportation,3,"{'transport': 6, 'hotel': 5, 'food': 10, 'attraction': 1}",173,hard,1648.0,False,2,validation
+True,1492.0,True,104,45,,1500.0,1,cuisine|room rule|transportation,3,"{'transport': 6, 'hotel': 6, 'food': 7, 'attraction': 1}",174,hard,1880.0,False,2,validation
+False,2772.0,False,224,101,proved_infeasible,2000.0,1,cuisine|room rule|transportation,3,"{'transport': 10, 'hotel': 3, 'food': 8, 'attraction': 1}",175,hard,2316.0,False,2,validation
+False,5877.35,False,38,17,proved_infeasible,1000.0,1,cuisine|room rule|transportation,3,"{'transport': 2, 'hotel': 6, 'food': 12, 'attraction': 1}",176,hard,1417.35,False,2,validation
+True,1028.5,True,20,8,,1100.0,1,room rule|room type|transportation,3,"{'transport': 2, 'hotel': 6, 'food': 12, 'attraction': 1}",177,hard,1468.5,False,2,validation
+True,1110.0,True,48,19,,1200.0,1,room rule|room type|transportation,3,"{'transport': 6, 'hotel': 3, 'food': 12, 'attraction': 1}",178,hard,1628.0,False,2,validation
+True,3000.0,True,30,12,,3000.0,1,cuisine|room rule|transportation,3,"{'transport': 5, 'hotel': 5, 'food': 11, 'attraction': 1}",179,hard,3062.0,False,2,validation
+False,2386.0,False,20,8,empty_domain:attraction,2600.0,1,cuisine|room type|transportation,3,"{'transport': 6, 'hotel': 6, 'food': 9, 'attraction': 0}",180,hard,2534.0,False,2,validation
+True,1876.0,True,48,19,,2000.0,1,room rule|room type|transportation,3,"{'transport': 4, 'hotel': 3, 'food': 12, 'attraction': 1}",181,hard,2598.0,False,2,validation
+False,2064.4,False,28,10,empty_domain:attraction,2200.0,1,cuisine|room rule|room type,3,"{'transport': 4, 'hotel': 1, 'food': 6, 'attraction': 0}",182,hard,2500.4,False,2,validation
+False,2861.85,False,17,7,proved_infeasible,1900.0,1,room rule|room type|transportation,3,"{'transport': 2, 'hotel': 2, 'food': 12, 'attraction': 1}",183,hard,2435.85,False,3,validation
+True,1615.3,True,26,11,,1900.0,1,cuisine|room rule|transportation,3,"{'transport': 2, 'hotel': 10, 'food': 6, 'attraction': 1}",184,hard,1869.3,True,2,validation
+True,3586.0,True,25,11,,3700.0,2,cuisine|room rule|room type,5,"{'transport': 5, 'hotel': 12, 'food': 12, 'attraction': 1}",185,hard,3313.25,True,2,validation
+True,2729.15,True,60,26,,4600.0,2,cuisine|room rule|room type,5,"{'transport': 4, 'hotel': 6, 'food': 12, 'attraction': 1}",186,hard,2819.15,True,2,validation
+True,13702.0,True,3,0,,13900.0,2,room rule|room type|transportation,5,"{'transport': 1, 'hotel': 6, 'food': 12, 'attraction': 1}",187,hard,15442.0,False,6,validation
+False,3516.98,False,23,10,proved_infeasible,2500.0,2,room rule|room type|transportation,5,"{'transport': 2, 'hotel': 3, 'food': 12, 'attraction': 1}",188,hard,3458.5,False,2,validation
+False,8604.15,False,38,17,proved_infeasible,1700.0,2,room rule|room type|transportation,5,"{'transport': 2, 'hotel': 6, 'food': 12, 'attraction': 1}",189,hard,2974.15,False,2,validation
+True,8652.0,True,3,0,,9500.0,2,room rule|room type|transportation,5,"{'transport': 2, 'hotel': 6, 'food': 12, 'attraction': 1}",190,hard,8576.0,True,4,validation
+False,8273.45,False,32,13,proved_infeasible,2100.0,2,room rule|room type|transportation,5,"{'transport': 2, 'hotel': 4, 'food': 12, 'attraction': 1}",191,hard,5913.7,False,2,validation
+False,6487.0,False,38,17,proved_infeasible,2000.0,2,room rule|room type|transportation,5,"{'transport': 2, 'hotel': 6, 'food': 12, 'attraction': 1}",192,hard,3075.0,False,2,validation
+True,3486.35,True,22,8,,3800.0,2,cuisine|room rule|room type,5,"{'transport': 3, 'hotel': 4, 'food': 12, 'attraction': 1}",193,hard,3702.35,True,3,validation
+False,8266.35,False,38,17,empty_domain:attraction,2400.0,2,cuisine|room rule|transportation,5,"{'transport': 2, 'hotel': 6, 'food': 12, 'attraction': 0}",194,hard,3136.35,False,2,validation
+True,8529.6,True,3,0,,9100.0,2,cuisine|room type|transportation,5,"{'transport': 13, 'hotel': 2, 'food': 12, 'attraction': 1}",195,hard,10880.6,False,7,validation
+False,10951.0,False,9,3,empty_domain:attraction,11400.0,2,cuisine|room rule|transportation,5,"{'transport': 2, 'hotel': 6, 'food': 12, 'attraction': 0}",196,hard,10574.1,False,7,validation
+True,8595.0,True,5,1,,8800.0,2,room rule|room type|transportation,5,"{'transport': 1, 'hotel': 2, 'food': 12, 'attraction': 1}",197,hard,10375.0,False,4,validation
+True,2858.95,True,24,9,,2900.0,2,room rule|room type|transportation,5,"{'transport': 2, 'hotel': 5, 'food': 12, 'attraction': 1}",198,hard,2908.95,False,2,validation
+True,2663.37,True,28,11,,2700.0,2,room rule|room type|transportation,5,"{'transport': 2, 'hotel': 8, 'food': 12, 'attraction': 1}",199,hard,3205.8,False,2,validation
+False,6772.6,False,96,40,proved_infeasible,3200.0,2,room rule|room type|transportation,5,"{'transport': 7, 'hotel': 3, 'food': 12, 'attraction': 1}",200,hard,4595.6,False,2,validation
+True,4393.2,True,5,1,,4400.0,2,cuisine|room rule|transportation,5,"{'transport': 7, 'hotel': 6, 'food': 12, 'attraction': 1}",201,hard,3835.2,True,2,validation
+False,8614.0,False,213,92,proved_infeasible,4200.0,2,cuisine|room rule|transportation,5,"{'transport': 10, 'hotel': 6, 'food': 12, 'attraction': 1}",202,hard,5604.0,False,2,validation
+True,3271.85,True,26,11,,3600.0,2,room rule|room type|transportation,5,"{'transport': 2, 'hotel': 10, 'food': 12, 'attraction': 1}",203,hard,3420.4,True,2,validation
+True,2482.4,True,10,3,,2700.0,2,room rule|room type|transportation,5,"{'transport': 2, 'hotel': 2, 'food': 12, 'attraction': 1}",204,hard,3863.05,False,2,validation
+True,5250.9,True,17,7,,5300.0,3,cuisine|room rule|transportation,7,"{'transport': 2, 'hotel': 8, 'food': 12, 'attraction': 1}",205,hard,5245.8,True,2,validation
+True,7790.0,True,9,3,,8200.0,3,room rule|room type|transportation,7,"{'transport': 5, 'hotel': 6, 'food': 12, 'attraction': 1}",206,hard,7436.0,True,2,validation
+True,6852.0,True,3,0,,6900.0,3,room rule|room type|transportation,7,"{'transport': 2, 'hotel': 12, 'food': 12, 'attraction': 1}",207,hard,5702.0,True,2,validation
+False,15227.05,False,38,17,proved_infeasible,4800.0,3,room rule|room type|transportation,7,"{'transport': 2, 'hotel': 6, 'food': 12, 'attraction': 1}",208,hard,13492.2,False,5,validation
+True,4563.0,True,48,19,,4600.0,3,room rule|room type|transportation,7,"{'transport': 12, 'hotel': 3, 'food': 12, 'attraction': 1}",209,hard,5707.0,False,2,validation
+True,4834.0,True,20,8,,5100.0,3,room rule|room type|transportation,7,"{'transport': 2, 'hotel': 6, 'food': 12, 'attraction': 1}",210,hard,5009.85,True,2,validation
+True,7359.0,True,5,1,,7700.0,3,cuisine|room type|transportation,7,"{'transport': 1, 'hotel': 6, 'food': 12, 'attraction': 1}",211,hard,7461.0,True,2,validation
+True,7829.0,True,3,0,,8000.0,3,cuisine|room rule|room type,7,"{'transport': 2, 'hotel': 5, 'food': 12, 'attraction': 1}",212,hard,7799.0,True,2,validation
+True,10187.0,True,5,1,,10600.0,3,cuisine|room rule|transportation,7,"{'transport': 2, 'hotel': 6, 'food': 12, 'attraction': 1}",213,hard,8254.0,True,3,validation
+True,14482.0,True,5,1,,14700.0,3,room rule|room type|transportation,7,"{'transport': 1, 'hotel': 7, 'food': 12, 'attraction': 1}",214,hard,17722.0,False,4,validation
+True,14246.0,True,3,0,,14600.0,3,room rule|room type|transportation,7,"{'transport': 6, 'hotel': 6, 'food': 12, 'attraction': 1}",215,hard,13660.0,True,6,validation
+True,4863.0,True,9,3,,5000.0,3,room rule|room type|transportation,7,"{'transport': 2, 'hotel': 12, 'food': 12, 'attraction': 1}",216,hard,4940.1,True,2,validation
+True,3908.75,True,10,3,,4400.0,3,room rule|room type|transportation,7,"{'transport': 2, 'hotel': 2, 'food': 12, 'attraction': 1}",217,hard,4034.05,True,2,validation
+True,6375.7,True,28,11,,6500.0,3,room rule|room type|transportation,7,"{'transport': 2, 'hotel': 8, 'food': 12, 'attraction': 1}",218,hard,10780.0,False,2,validation
+True,7899.0,True,9,3,,8100.0,3,room rule|room type|transportation,7,"{'transport': 2, 'hotel': 4, 'food': 12, 'attraction': 1}",219,hard,7636.8,True,2,validation
+True,6656.0,True,3,0,,6800.0,3,room rule|room type|transportation,7,"{'transport': 2, 'hotel': 4, 'food': 12, 'attraction': 1}",220,hard,6176.0,True,2,validation
+True,7155.0,True,3,0,,7200.0,3,cuisine|room rule|transportation,7,"{'transport': 3, 'hotel': 6, 'food': 12, 'attraction': 1}",221,hard,6459.0,True,2,validation
+True,7081.0,True,5,1,,7200.0,3,cuisine|room rule|room type,7,"{'transport': 3, 'hotel': 6, 'food': 12, 'attraction': 1}",222,hard,5749.25,True,2,validation
+True,10162.0,True,3,0,,10400.0,3,room rule|room type|transportation,7,"{'transport': 8, 'hotel': 4, 'food': 12, 'attraction': 1}",223,hard,12109.0,False,3,validation
+True,4084.3,True,10,3,,4300.0,3,cuisine|room rule|room type,7,"{'transport': 2, 'hotel': 2, 'food': 12, 'attraction': 1}",224,hard,5045.45,False,2,validation

@@ -1,0 +1,12 @@
+.venv/
+.venv_eval/
+__pycache__/
+*.pyc
+.pytest_cache/
+TravelPlanner/
+data/travelplanner/database/
+data/travelplanner/database.zip
+data/*.zip
+*.zip
+llm_cache*.json
+plans_*.jsonl

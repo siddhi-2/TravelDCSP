@@ -1,0 +1,661 @@
+Name,Average Cost,Cuisines,Aggregate Rating,City
+Austin Eatery 0,33.0,"Pizza, Italian, American",3.4,Austin
+Austin Eatery 1,67.0,American,3.2,Austin
+Austin Eatery 2,38.0,"Indian, American, Italian",3.8,Austin
+Austin Eatery 3,14.0,"Italian, Mexican",3.9,Austin
+Austin Eatery 4,86.0,"Pizza, Italian, Mexican",2.0,Austin
+Austin Eatery 5,34.0,"French, Bakery, Italian",2.9,Austin
+Austin Eatery 6,14.0,"Pizza, American",2.7,Austin
+Austin Eatery 7,40.0,"Italian, Indian",4.3,Austin
+Austin Eatery 8,22.0,Mexican,3.5,Austin
+Austin Eatery 9,35.0,"Italian, American",2.9,Austin
+Austin Eatery 10,49.0,"Cafe, Italian, American",2.5,Austin
+Austin Eatery 11,59.0,Pizza,2.3,Austin
+Austin Eatery 12,18.0,"Italian, Mexican",4.2,Austin
+Austin Eatery 13,21.0,Mexican,2.1,Austin
+Austin Eatery 14,19.0,"American, Cafe, Indian",3.1,Austin
+Austin Eatery 15,12.0,"Italian, American, Mexican",3.7,Austin
+Austin Eatery 16,65.0,"American, Bakery",4.1,Austin
+Austin Eatery 17,23.0,"American, Bakery",2.2,Austin
+Austin Eatery 18,41.0,"French, Chinese, Italian",4.6,Austin
+Austin Eatery 19,23.0,"Pizza, Mexican, Indian",3.5,Austin
+Austin Eatery 20,35.0,Italian,2.0,Austin
+Austin Eatery 21,25.0,"Chinese, French, Pizza",4.9,Austin
+Austin Eatery 22,41.0,"Indian, Mexican, Cafe",4.8,Austin
+Austin Eatery 23,20.0,"Mexican, Chinese",2.5,Austin
+Austin Eatery 24,33.0,"Cafe, Chinese, Pizza",2.3,Austin
+Austin Eatery 25,30.0,"Chinese, American, Bakery",2.3,Austin
+Austin Eatery 26,40.0,"Cafe, French, Italian",3.4,Austin
+Austin Eatery 27,12.0,"Mexican, American, Indian",3.4,Austin
+Austin Eatery 28,15.0,"Cafe, Pizza",3.7,Austin
+Austin Eatery 29,85.0,"Cafe, Italian, Chinese",3.7,Austin
+Austin Eatery 30,49.0,"Pizza, Chinese, Bakery",2.5,Austin
+Austin Eatery 31,72.0,"Bakery, Pizza",4.5,Austin
+Austin Eatery 32,67.0,"American, Indian, Chinese",2.8,Austin
+Austin Eatery 33,73.0,,4.6,Austin
+Austin Eatery 34,57.0,"Mexican, Bakery",3.0,Austin
+Austin Eatery 35,25.0,"Bakery, Mexican",2.9,Austin
+Austin Eatery 36,83.0,"Chinese, French, Cafe",4.7,Austin
+Austin Eatery 37,46.0,"Pizza, Indian",4.0,Austin
+Austin Eatery 38,28.0,"Bakery, Mexican",4.4,Austin
+Austin Eatery 39,66.0,"American, French, Pizza",3.5,Austin
+Austin Eatery 40,12.0,"Pizza, French",3.7,Austin
+Austin Eatery 41,61.0,"Chinese, Bakery",2.8,Austin
+Austin Eatery 42,,Pizza,3.2,Austin
+Austin Eatery 43,49.0,"Mexican, American",3.9,Austin
+Austin Eatery 44,73.0,"Pizza, Bakery, American",4.3,Austin
+Austin Eatery 45,19.0,"Chinese, Bakery",4.1,Austin
+Austin Eatery 46,84.0,French,2.1,Austin
+Austin Eatery 47,57.0,"French, Chinese",3.8,Austin
+Austin Eatery 48,13.0,"American, French",3.6,Austin
+Austin Eatery 49,29.0,American,2.8,Austin
+Austin Eatery 50,60.0,"Italian, French",4.6,Austin
+Austin Eatery 51,53.0,American,2.2,Austin
+Austin Eatery 52,,"Pizza, American, Indian",3.7,Austin
+Austin Eatery 53,31.0,,4.1,Austin
+Austin Eatery 54,90.0,Italian,4.3,Austin
+Austin Eatery 55,17.0,"French, Cafe, Italian",3.5,Austin
+Austin Eatery 56,18.0,"Italian, French",3.5,Austin
+Austin Eatery 57,49.0,"Indian, Mexican",3.4,Austin
+Austin Eatery 58,43.0,"Indian, Mexican",2.5,Austin
+Austin Eatery 59,45.0,"Bakery, Cafe",2.2,Austin
+Dallas Eatery 0,42.0,"Chinese, Indian",4.6,Dallas
+Dallas Eatery 1,89.0,"American, French",2.3,Dallas
+Dallas Eatery 2,27.0,"Chinese, Cafe",3.4,Dallas
+Dallas Eatery 3,34.0,"Italian, American, Bakery",3.4,Dallas
+Dallas Eatery 4,47.0,"American, Pizza",3.5,Dallas
+Dallas Eatery 5,57.0,,2.1,Dallas
+Dallas Eatery 6,73.0,,2.5,Dallas
+Dallas Eatery 7,38.0,,4.0,Dallas
+Dallas Eatery 8,85.0,"Indian, French, Cafe",4.4,Dallas
+Dallas Eatery 9,36.0,"Chinese, Cafe",3.1,Dallas
+Dallas Eatery 10,79.0,,3.5,Dallas
+Dallas Eatery 11,77.0,"Pizza, American, Chinese",3.1,Dallas
+Dallas Eatery 12,26.0,,2.8,Dallas
+Dallas Eatery 13,36.0,"Chinese, Bakery, French",4.8,Dallas
+Dallas Eatery 14,51.0,,2.3,Dallas
+Dallas Eatery 15,53.0,"American, French",4.9,Dallas
+Dallas Eatery 16,39.0,,4.2,Dallas
+Dallas Eatery 17,84.0,American,4.0,Dallas
+Dallas Eatery 18,90.0,Cafe,5.0,Dallas
+Dallas Eatery 19,47.0,"Bakery, French, Indian",3.0,Dallas
+Dallas Eatery 20,9.0,"American, Pizza, Chinese",2.6,Dallas
+Dallas Eatery 21,54.0,"Pizza, Chinese, American",3.7,Dallas
+Dallas Eatery 22,34.0,Bakery,3.7,Dallas
+Dallas Eatery 23,74.0,,4.3,Dallas
+Dallas Eatery 24,,Bakery,4.2,Dallas
+Dallas Eatery 25,78.0,"French, Italian",4.6,Dallas
+Dallas Eatery 26,16.0,"Pizza, Mexican",2.9,Dallas
+Dallas Eatery 27,76.0,Chinese,2.2,Dallas
+Dallas Eatery 28,49.0,"American, Italian, Pizza",5.0,Dallas
+Dallas Eatery 29,54.0,,2.6,Dallas
+Dallas Eatery 30,64.0,"Pizza, Indian, Bakery",3.6,Dallas
+Dallas Eatery 31,69.0,Mexican,2.4,Dallas
+Dallas Eatery 32,72.0,Cafe,3.3,Dallas
+Dallas Eatery 33,15.0,"Italian, Chinese",4.9,Dallas
+Dallas Eatery 34,78.0,Indian,3.5,Dallas
+Dallas Eatery 35,21.0,"Cafe, French",3.0,Dallas
+Dallas Eatery 36,74.0,"Chinese, Mexican",4.1,Dallas
+Dallas Eatery 37,78.0,"Mexican, Bakery",2.1,Dallas
+Dallas Eatery 38,54.0,Indian,4.8,Dallas
+Dallas Eatery 39,35.0,"French, American",2.8,Dallas
+Dallas Eatery 40,70.0,"Bakery, Indian",2.7,Dallas
+Dallas Eatery 41,82.0,"Bakery, Cafe, Mexican",2.3,Dallas
+Dallas Eatery 42,22.0,"Italian, Bakery",2.6,Dallas
+Dallas Eatery 43,31.0,"Bakery, Mexican, Cafe",2.7,Dallas
+Dallas Eatery 44,39.0,Pizza,2.4,Dallas
+Dallas Eatery 45,82.0,"American, French",4.0,Dallas
+Dallas Eatery 46,62.0,"French, Pizza, Bakery",2.3,Dallas
+Dallas Eatery 47,54.0,"Bakery, American",3.9,Dallas
+Dallas Eatery 48,19.0,,2.9,Dallas
+Dallas Eatery 49,73.0,"Chinese, Mexican",4.6,Dallas
+Dallas Eatery 50,16.0,"French, Mexican, Italian",4.9,Dallas
+Dallas Eatery 51,66.0,Cafe,2.1,Dallas
+Dallas Eatery 52,24.0,Bakery,4.6,Dallas
+Dallas Eatery 53,86.0,"Bakery, Cafe",2.4,Dallas
+Dallas Eatery 54,82.0,French,3.5,Dallas
+Dallas Eatery 55,33.0,Indian,4.6,Dallas
+Dallas Eatery 56,81.0,"Indian, French, Chinese",4.5,Dallas
+Dallas Eatery 57,34.0,"Italian, Bakery, Chinese",2.2,Dallas
+Dallas Eatery 58,70.0,"Mexican, Cafe, American",3.5,Dallas
+Dallas Eatery 59,32.0,Mexican,2.7,Dallas
+Houston Eatery 0,25.0,French,2.2,Houston
+Houston Eatery 1,77.0,"Bakery, American",3.5,Houston
+Houston Eatery 2,48.0,"French, Chinese",3.3,Houston
+Houston Eatery 3,72.0,"Chinese, Cafe, Bakery",3.7,Houston
+Houston Eatery 4,52.0,Indian,4.8,Houston
+Houston Eatery 5,56.0,"Chinese, Mexican, Indian",2.1,Houston
+Houston Eatery 6,28.0,"French, Chinese, Mexican",2.1,Houston
+Houston Eatery 7,29.0,American,5.0,Houston
+Houston Eatery 8,63.0,"Italian, Chinese, Mexican",4.9,Houston
+Houston Eatery 9,70.0,Mexican,4.5,Houston
+Houston Eatery 10,68.0,Mexican,2.4,Houston
+Houston Eatery 11,17.0,"Pizza, Mexican, Chinese",4.1,Houston
+Houston Eatery 12,,"Pizza, American",4.1,Houston
+Houston Eatery 13,81.0,"Pizza, Chinese",3.2,Houston
+Houston Eatery 14,72.0,"French, Mexican, Italian",3.5,Houston
+Houston Eatery 15,15.0,Italian,3.0,Houston
+Houston Eatery 16,9.0,"Pizza, French, Mexican",2.9,Houston
+Houston Eatery 17,63.0,"French, Mexican, Chinese",4.9,Houston
+Houston Eatery 18,38.0,,2.3,Houston
+Houston Eatery 19,83.0,American,2.4,Houston
+Houston Eatery 20,60.0,"Chinese, Bakery, Pizza",3.5,Houston
+Houston Eatery 21,77.0,"Pizza, Italian",3.2,Houston
+Houston Eatery 22,22.0,"Pizza, American, Indian",3.5,Houston
+Houston Eatery 23,55.0,American,3.6,Houston
+Houston Eatery 24,84.0,Bakery,4.2,Houston
+Houston Eatery 25,33.0,"Italian, Pizza",2.6,Houston
+Houston Eatery 26,50.0,,3.2,Houston
+Houston Eatery 27,71.0,"Chinese, Cafe",3.2,Houston
+Houston Eatery 28,69.0,"Pizza, Bakery",4.6,Houston
+Houston Eatery 29,71.0,Mexican,4.9,Houston
+Houston Eatery 30,44.0,"Indian, Italian, American",4.8,Houston
+Houston Eatery 31,,Bakery,2.5,Houston
+Houston Eatery 32,19.0,"Italian, Chinese, Bakery",2.8,Houston
+Houston Eatery 33,73.0,"Italian, Indian",2.6,Houston
+Houston Eatery 34,64.0,"Mexican, American, Chinese",4.0,Houston
+Houston Eatery 35,9.0,,3.7,Houston
+Houston Eatery 36,86.0,French,2.5,Houston
+Houston Eatery 37,31.0,,2.2,Houston
+Houston Eatery 38,61.0,Indian,4.9,Houston
+Houston Eatery 39,73.0,,3.9,Houston
+Houston Eatery 40,56.0,"Pizza, American",3.6,Houston
+Houston Eatery 41,27.0,Pizza,4.5,Houston
+Houston Eatery 42,28.0,Bakery,4.2,Houston
+Houston Eatery 43,,,4.4,Houston
+Houston Eatery 44,24.0,,2.1,Houston
+Houston Eatery 45,15.0,Mexican,4.3,Houston
+Houston Eatery 46,8.0,"American, Mexican, Italian",2.9,Houston
+Houston Eatery 47,72.0,"Italian, Bakery",3.3,Houston
+Houston Eatery 48,22.0,"French, American",2.5,Houston
+Houston Eatery 49,16.0,,2.5,Houston
+Houston Eatery 50,35.0,"American, Mexican",4.2,Houston
+Houston Eatery 51,50.0,"Chinese, Bakery, French",4.3,Houston
+Houston Eatery 52,81.0,"American, Bakery",4.5,Houston
+Houston Eatery 53,72.0,"Mexican, Cafe",3.8,Houston
+Houston Eatery 54,82.0,"Italian, Mexican",2.9,Houston
+Houston Eatery 55,10.0,French,2.8,Houston
+Houston Eatery 56,18.0,"Chinese, Pizza",3.5,Houston
+Houston Eatery 57,79.0,"American, Italian, Pizza",4.7,Houston
+Houston Eatery 58,41.0,"Mexican, Italian",2.7,Houston
+Houston Eatery 59,87.0,"Chinese, Indian",2.8,Houston
+Plano Eatery 0,9.0,,4.0,Plano
+Plano Eatery 1,45.0,"French, Pizza, Chinese",2.5,Plano
+Plano Eatery 2,71.0,Indian,2.8,Plano
+Plano Eatery 3,22.0,"Chinese, American",4.4,Plano
+Plano Eatery 4,40.0,Chinese,4.4,Plano
+Plano Eatery 5,32.0,"Cafe, Bakery",3.7,Plano
+Plano Eatery 6,75.0,"Cafe, Pizza, Indian",3.5,Plano
+Plano Eatery 7,,"Pizza, Italian",4.5,Plano
+Plano Eatery 8,43.0,"American, Italian, Bakery",3.6,Plano
+Plano Eatery 9,64.0,,3.1,Plano
+Plano Eatery 10,15.0,Indian,2.8,Plano
+Plano Eatery 11,27.0,Indian,4.4,Plano
+Plano Eatery 12,60.0,Indian,3.5,Plano
+Plano Eatery 13,63.0,"French, Pizza",4.0,Plano
+Plano Eatery 14,77.0,"Chinese, American",2.3,Plano
+Plano Eatery 15,41.0,"American, French",4.5,Plano
+Plano Eatery 16,39.0,"Mexican, Bakery, Cafe",3.6,Plano
+Plano Eatery 17,,"Chinese, American, Indian",2.7,Plano
+Plano Eatery 18,51.0,Italian,4.6,Plano
+Plano Eatery 19,64.0,"Italian, French, Chinese",2.7,Plano
+Plano Eatery 20,68.0,Chinese,3.7,Plano
+Plano Eatery 21,22.0,"Italian, Indian",4.7,Plano
+Plano Eatery 22,24.0,"Bakery, Chinese",3.9,Plano
+Plano Eatery 23,57.0,,4.0,Plano
+Plano Eatery 24,48.0,"American, Italian, Bakery",5.0,Plano
+Plano Eatery 25,83.0,"American, Indian, Pizza",3.1,Plano
+Plano Eatery 26,53.0,"American, French, Mexican",4.6,Plano
+Plano Eatery 27,81.0,"Cafe, Bakery, Mexican",2.4,Plano
+Plano Eatery 28,,"Pizza, Indian, Italian",2.8,Plano
+Plano Eatery 29,31.0,,2.4,Plano
+Plano Eatery 30,54.0,French,4.9,Plano
+Plano Eatery 31,44.0,"Pizza, American",4.5,Plano
+Plano Eatery 32,,,3.4,Plano
+Plano Eatery 33,27.0,,3.0,Plano
+Plano Eatery 34,19.0,American,4.1,Plano
+Plano Eatery 35,84.0,Pizza,4.5,Plano
+Plano Eatery 36,86.0,"American, Cafe",2.2,Plano
+Plano Eatery 37,13.0,Bakery,2.7,Plano
+Plano Eatery 38,13.0,"American, Cafe, Bakery",4.4,Plano
+Plano Eatery 39,,"Pizza, Mexican, French",3.4,Plano
+Plano Eatery 40,35.0,"Italian, Chinese",3.0,Plano
+Plano Eatery 41,87.0,"Mexican, Pizza, Bakery",4.3,Plano
+Plano Eatery 42,76.0,"Indian, Mexican",3.5,Plano
+Plano Eatery 43,35.0,"Chinese, Cafe",3.6,Plano
+Plano Eatery 44,27.0,French,3.5,Plano
+Plano Eatery 45,82.0,"Chinese, Pizza, Indian",4.9,Plano
+Plano Eatery 46,66.0,French,2.0,Plano
+Plano Eatery 47,13.0,"Cafe, American, Bakery",2.8,Plano
+Plano Eatery 48,48.0,"Bakery, Mexican",3.5,Plano
+Plano Eatery 49,45.0,"Mexican, Indian",3.1,Plano
+Plano Eatery 50,72.0,"Italian, Indian",4.9,Plano
+Plano Eatery 51,56.0,,2.4,Plano
+Plano Eatery 52,84.0,"Pizza, Bakery",3.1,Plano
+Plano Eatery 53,61.0,"French, Bakery",2.5,Plano
+Plano Eatery 54,55.0,Chinese,2.2,Plano
+Plano Eatery 55,48.0,"Italian, Pizza",3.5,Plano
+Plano Eatery 56,60.0,Mexican,3.0,Plano
+Plano Eatery 57,8.0,"Indian, Chinese",4.5,Plano
+Plano Eatery 58,34.0,,4.1,Plano
+Plano Eatery 59,26.0,,3.6,Plano
+Columbus Eatery 0,14.0,Indian,4.6,Columbus
+Columbus Eatery 1,89.0,"Italian, American, Cafe",4.9,Columbus
+Columbus Eatery 2,28.0,Mexican,2.7,Columbus
+Columbus Eatery 3,13.0,"American, Mexican, French",4.6,Columbus
+Columbus Eatery 4,12.0,Indian,2.5,Columbus
+Columbus Eatery 5,16.0,Italian,2.3,Columbus
+Columbus Eatery 6,87.0,"American, Chinese",3.6,Columbus
+Columbus Eatery 7,51.0,"Chinese, French, Pizza",3.7,Columbus
+Columbus Eatery 8,,"Mexican, Cafe, Italian",4.1,Columbus
+Columbus Eatery 9,22.0,Italian,4.2,Columbus
+Columbus Eatery 10,12.0,"Pizza, Indian, American",4.3,Columbus
+Columbus Eatery 11,11.0,Indian,2.1,Columbus
+Columbus Eatery 12,89.0,"Pizza, Chinese",2.5,Columbus
+Columbus Eatery 13,80.0,"French, Italian",4.0,Columbus
+Columbus Eatery 14,74.0,,2.6,Columbus
+Columbus Eatery 15,71.0,"Mexican, Bakery",4.4,Columbus
+Columbus Eatery 16,11.0,Indian,4.4,Columbus
+Columbus Eatery 17,35.0,"Pizza, Mexican, Cafe",3.5,Columbus
+Columbus Eatery 18,18.0,"Mexican, American, Cafe",4.7,Columbus
+Columbus Eatery 19,65.0,Pizza,4.0,Columbus
+Columbus Eatery 20,52.0,Chinese,3.7,Columbus
+Columbus Eatery 21,,"Italian, French",4.4,Columbus
+Columbus Eatery 22,26.0,"Italian, Mexican, Chinese",2.8,Columbus
+Columbus Eatery 23,84.0,"Pizza, Indian",3.9,Columbus
+Columbus Eatery 24,19.0,"Chinese, French",4.9,Columbus
+Columbus Eatery 25,48.0,"American, Indian, Mexican",4.2,Columbus
+Columbus Eatery 26,18.0,French,3.8,Columbus
+Columbus Eatery 27,22.0,"French, Bakery, Indian",2.6,Columbus
+Columbus Eatery 28,26.0,Mexican,4.6,Columbus
+Columbus Eatery 29,26.0,"Bakery, Italian, Mexican",3.3,Columbus
+Columbus Eatery 30,8.0,Cafe,2.2,Columbus
+Columbus Eatery 31,22.0,Italian,2.3,Columbus
+Columbus Eatery 32,46.0,"French, Bakery, Indian",2.7,Columbus
+Columbus Eatery 33,,Mexican,4.0,Columbus
+Columbus Eatery 34,59.0,American,3.7,Columbus
+Columbus Eatery 35,55.0,,2.2,Columbus
+Columbus Eatery 36,83.0,"French, Chinese, Cafe",3.2,Columbus
+Columbus Eatery 37,38.0,"French, Bakery, Italian",4.1,Columbus
+Columbus Eatery 38,85.0,"Indian, Cafe",2.9,Columbus
+Columbus Eatery 39,,"Chinese, Cafe",2.3,Columbus
+Columbus Eatery 40,61.0,American,3.2,Columbus
+Columbus Eatery 41,72.0,"Indian, Cafe, Bakery",2.0,Columbus
+Columbus Eatery 42,15.0,,2.7,Columbus
+Columbus Eatery 43,80.0,Italian,2.9,Columbus
+Columbus Eatery 44,23.0,American,2.3,Columbus
+Columbus Eatery 45,52.0,"American, Pizza, Cafe",4.6,Columbus
+Columbus Eatery 46,12.0,Bakery,4.3,Columbus
+Columbus Eatery 47,27.0,American,2.0,Columbus
+Columbus Eatery 48,58.0,"French, Cafe, American",5.0,Columbus
+Columbus Eatery 49,52.0,Indian,2.6,Columbus
+Columbus Eatery 50,50.0,"Pizza, Cafe, Mexican",3.9,Columbus
+Columbus Eatery 51,37.0,Indian,4.3,Columbus
+Columbus Eatery 52,69.0,"French, Pizza",3.7,Columbus
+Columbus Eatery 53,65.0,"Mexican, Chinese",3.7,Columbus
+Columbus Eatery 54,47.0,Chinese,3.2,Columbus
+Columbus Eatery 55,51.0,"Cafe, Italian",4.9,Columbus
+Columbus Eatery 56,75.0,"Cafe, Italian",3.6,Columbus
+Columbus Eatery 57,80.0,"Mexican, Pizza",3.0,Columbus
+Columbus Eatery 58,60.0,"Bakery, Chinese, Indian",2.6,Columbus
+Columbus Eatery 59,83.0,"Chinese, American",2.5,Columbus
+Cleveland Eatery 0,56.0,"Italian, Cafe, French",2.2,Cleveland
+Cleveland Eatery 1,85.0,"Mexican, French",2.7,Cleveland
+Cleveland Eatery 2,49.0,French,4.1,Cleveland
+Cleveland Eatery 3,82.0,,4.3,Cleveland
+Cleveland Eatery 4,50.0,Bakery,3.2,Cleveland
+Cleveland Eatery 5,70.0,"Mexican, Bakery",4.1,Cleveland
+Cleveland Eatery 6,,,3.5,Cleveland
+Cleveland Eatery 7,71.0,Cafe,2.7,Cleveland
+Cleveland Eatery 8,9.0,"Pizza, American, Mexican",3.9,Cleveland
+Cleveland Eatery 9,84.0,"Cafe, Pizza, Chinese",2.3,Cleveland
+Cleveland Eatery 10,,"Italian, Chinese, Mexican",2.6,Cleveland
+Cleveland Eatery 11,69.0,"Italian, French",4.4,Cleveland
+Cleveland Eatery 12,48.0,"Bakery, Chinese",5.0,Cleveland
+Cleveland Eatery 13,19.0,"Bakery, American",2.6,Cleveland
+Cleveland Eatery 14,81.0,Chinese,4.3,Cleveland
+Cleveland Eatery 15,61.0,Italian,2.4,Cleveland
+Cleveland Eatery 16,39.0,,2.9,Cleveland
+Cleveland Eatery 17,16.0,"Pizza, Chinese, American",4.9,Cleveland
+Cleveland Eatery 18,34.0,"Indian, Mexican, Italian",3.9,Cleveland
+Cleveland Eatery 19,84.0,"Mexican, Chinese, Italian",4.8,Cleveland
+Cleveland Eatery 20,8.0,Pizza,2.3,Cleveland
+Cleveland Eatery 21,,"Italian, Cafe, Chinese",4.5,Cleveland
+Cleveland Eatery 22,,Pizza,4.9,Cleveland
+Cleveland Eatery 23,51.0,"American, Indian",4.8,Cleveland
+Cleveland Eatery 24,16.0,,2.2,Cleveland
+Cleveland Eatery 25,53.0,Italian,2.2,Cleveland
+Cleveland Eatery 26,45.0,,2.0,Cleveland
+Cleveland Eatery 27,22.0,"Pizza, Indian",3.0,Cleveland
+Cleveland Eatery 28,53.0,,3.4,Cleveland
+Cleveland Eatery 29,63.0,Bakery,3.0,Cleveland
+Cleveland Eatery 30,15.0,"Indian, Mexican",2.6,Cleveland
+Cleveland Eatery 31,30.0,"Indian, Italian, Pizza",3.4,Cleveland
+Cleveland Eatery 32,16.0,"Bakery, Italian, Mexican",4.7,Cleveland
+Cleveland Eatery 33,63.0,"Cafe, Italian",3.6,Cleveland
+Cleveland Eatery 34,45.0,Chinese,4.3,Cleveland
+Cleveland Eatery 35,79.0,"American, Cafe, Pizza",3.3,Cleveland
+Cleveland Eatery 36,26.0,Chinese,2.7,Cleveland
+Cleveland Eatery 37,42.0,"Italian, Mexican, Indian",3.4,Cleveland
+Cleveland Eatery 38,70.0,Pizza,4.9,Cleveland
+Cleveland Eatery 39,16.0,"French, Bakery",3.6,Cleveland
+Cleveland Eatery 40,90.0,Cafe,2.3,Cleveland
+Cleveland Eatery 41,23.0,,4.4,Cleveland
+Cleveland Eatery 42,58.0,French,2.7,Cleveland
+Cleveland Eatery 43,89.0,Bakery,3.6,Cleveland
+Cleveland Eatery 44,80.0,Bakery,3.7,Cleveland
+Cleveland Eatery 45,48.0,,3.1,Cleveland
+Cleveland Eatery 46,75.0,"Pizza, Cafe, French",4.3,Cleveland
+Cleveland Eatery 47,44.0,"Cafe, Pizza",2.5,Cleveland
+Cleveland Eatery 48,37.0,"American, Italian, Mexican",4.8,Cleveland
+Cleveland Eatery 49,42.0,"American, Indian",4.9,Cleveland
+Cleveland Eatery 50,83.0,"Bakery, Chinese",2.2,Cleveland
+Cleveland Eatery 51,51.0,"Italian, French, American",3.5,Cleveland
+Cleveland Eatery 52,42.0,"Bakery, French, Indian",2.4,Cleveland
+Cleveland Eatery 53,43.0,"American, Cafe, Bakery",4.1,Cleveland
+Cleveland Eatery 54,76.0,"Cafe, Bakery",3.9,Cleveland
+Cleveland Eatery 55,10.0,Pizza,4.0,Cleveland
+Cleveland Eatery 56,8.0,"Italian, Pizza",3.8,Cleveland
+Cleveland Eatery 57,71.0,"American, Mexican",3.4,Cleveland
+Cleveland Eatery 58,35.0,"Bakery, Chinese, Italian",2.8,Cleveland
+Cleveland Eatery 59,87.0,"Pizza, Indian",2.2,Cleveland
+Dayton Eatery 0,13.0,"Italian, Cafe",2.4,Dayton
+Dayton Eatery 1,36.0,"Italian, Pizza",4.5,Dayton
+Dayton Eatery 2,82.0,"French, American, Bakery",2.1,Dayton
+Dayton Eatery 3,22.0,"Indian, Pizza",2.4,Dayton
+Dayton Eatery 4,63.0,Bakery,3.4,Dayton
+Dayton Eatery 5,17.0,,3.8,Dayton
+Dayton Eatery 6,10.0,"Italian, French",2.5,Dayton
+Dayton Eatery 7,13.0,Indian,2.1,Dayton
+Dayton Eatery 8,46.0,"Bakery, Chinese",2.9,Dayton
+Dayton Eatery 9,19.0,"Indian, Bakery, French",3.0,Dayton
+Dayton Eatery 10,58.0,"Mexican, French",5.0,Dayton
+Dayton Eatery 11,62.0,"Pizza, French, Italian",4.4,Dayton
+Dayton Eatery 12,27.0,"Mexican, American",3.2,Dayton
+Dayton Eatery 13,,"Bakery, French, Pizza",4.5,Dayton
+Dayton Eatery 14,26.0,"French, Cafe, American",2.0,Dayton
+Dayton Eatery 15,75.0,"Bakery, Chinese",2.5,Dayton
+Dayton Eatery 16,12.0,"Pizza, Indian",2.0,Dayton
+Dayton Eatery 17,54.0,Bakery,3.5,Dayton
+Dayton Eatery 18,19.0,Pizza,4.3,Dayton
+Dayton Eatery 19,28.0,"Pizza, Bakery",3.4,Dayton
+Dayton Eatery 20,70.0,"Pizza, Bakery, Indian",4.3,Dayton
+Dayton Eatery 21,56.0,"Cafe, Chinese, Bakery",4.8,Dayton
+Dayton Eatery 22,21.0,"Bakery, Cafe",4.7,Dayton
+Dayton Eatery 23,81.0,French,2.9,Dayton
+Dayton Eatery 24,74.0,Mexican,5.0,Dayton
+Dayton Eatery 25,59.0,"Chinese, Pizza, Mexican",3.9,Dayton
+Dayton Eatery 26,32.0,"Italian, Mexican, Indian",3.5,Dayton
+Dayton Eatery 27,73.0,"Pizza, French",3.3,Dayton
+Dayton Eatery 28,70.0,"Mexican, Italian, American",4.3,Dayton
+Dayton Eatery 29,56.0,,4.0,Dayton
+Dayton Eatery 30,55.0,"American, Indian",2.7,Dayton
+Dayton Eatery 31,47.0,French,2.2,Dayton
+Dayton Eatery 32,36.0,"Cafe, Pizza, Mexican",3.2,Dayton
+Dayton Eatery 33,39.0,"Cafe, Indian",3.1,Dayton
+Dayton Eatery 34,51.0,Cafe,2.6,Dayton
+Dayton Eatery 35,15.0,,4.4,Dayton
+Dayton Eatery 36,79.0,"French, Indian, Cafe",2.4,Dayton
+Dayton Eatery 37,56.0,"Mexican, Indian",2.4,Dayton
+Dayton Eatery 38,75.0,"French, Pizza, Bakery",3.9,Dayton
+Dayton Eatery 39,31.0,Bakery,4.1,Dayton
+Dayton Eatery 40,43.0,Chinese,3.6,Dayton
+Dayton Eatery 41,49.0,"Indian, Bakery, Pizza",2.6,Dayton
+Dayton Eatery 42,90.0,"Mexican, Chinese",3.8,Dayton
+Dayton Eatery 43,17.0,"Cafe, French, Chinese",3.6,Dayton
+Dayton Eatery 44,61.0,,4.7,Dayton
+Dayton Eatery 45,84.0,Chinese,4.5,Dayton
+Dayton Eatery 46,28.0,"Italian, Pizza",4.5,Dayton
+Dayton Eatery 47,47.0,Indian,2.3,Dayton
+Dayton Eatery 48,21.0,"Indian, Bakery",3.6,Dayton
+Dayton Eatery 49,30.0,"Indian, American",3.1,Dayton
+Dayton Eatery 50,89.0,"Bakery, Italian",2.9,Dayton
+Dayton Eatery 51,62.0,"Pizza, American, French",4.5,Dayton
+Dayton Eatery 52,48.0,"Bakery, American, Italian",4.8,Dayton
+Dayton Eatery 53,20.0,Cafe,3.2,Dayton
+Dayton Eatery 54,15.0,Bakery,4.6,Dayton
+Dayton Eatery 55,12.0,"Pizza, Bakery, Indian",3.5,Dayton
+Dayton Eatery 56,71.0,"Indian, Cafe",3.7,Dayton
+Dayton Eatery 57,76.0,"Bakery, French",3.3,Dayton
+Dayton Eatery 58,59.0,American,3.1,Dayton
+Dayton Eatery 59,32.0,"Pizza, Mexican, Italian",2.3,Dayton
+Miami Eatery 0,84.0,American,3.9,Miami
+Miami Eatery 1,90.0,Mexican,3.9,Miami
+Miami Eatery 2,36.0,"Mexican, Indian",4.8,Miami
+Miami Eatery 3,43.0,,4.2,Miami
+Miami Eatery 4,88.0,"American, Cafe",3.6,Miami
+Miami Eatery 5,46.0,,4.1,Miami
+Miami Eatery 6,73.0,"Pizza, Indian",3.5,Miami
+Miami Eatery 7,44.0,"Chinese, Mexican, Pizza",4.6,Miami
+Miami Eatery 8,17.0,"American, French, Indian",2.3,Miami
+Miami Eatery 9,68.0,"Cafe, American",4.6,Miami
+Miami Eatery 10,49.0,French,4.6,Miami
+Miami Eatery 11,19.0,"American, Indian",3.3,Miami
+Miami Eatery 12,14.0,"Chinese, Mexican, Cafe",2.6,Miami
+Miami Eatery 13,28.0,American,3.7,Miami
+Miami Eatery 14,22.0,"Mexican, Chinese, Pizza",3.0,Miami
+Miami Eatery 15,28.0,"Cafe, Mexican, French",2.1,Miami
+Miami Eatery 16,25.0,French,2.9,Miami
+Miami Eatery 17,51.0,"French, Chinese",4.6,Miami
+Miami Eatery 18,40.0,"American, Chinese",2.0,Miami
+Miami Eatery 19,59.0,Pizza,4.4,Miami
+Miami Eatery 20,22.0,"French, Bakery, Indian",2.2,Miami
+Miami Eatery 21,18.0,Pizza,4.9,Miami
+Miami Eatery 22,26.0,"French, American, Italian",4.5,Miami
+Miami Eatery 23,63.0,French,3.5,Miami
+Miami Eatery 24,24.0,"Chinese, Indian",2.3,Miami
+Miami Eatery 25,40.0,French,2.4,Miami
+Miami Eatery 26,29.0,"Mexican, Bakery",4.0,Miami
+Miami Eatery 27,37.0,"American, Cafe, Indian",2.3,Miami
+Miami Eatery 28,54.0,"Indian, Italian",3.3,Miami
+Miami Eatery 29,72.0,"Chinese, Indian",2.2,Miami
+Miami Eatery 30,25.0,"Chinese, Indian, Italian",4.5,Miami
+Miami Eatery 31,62.0,Bakery,3.7,Miami
+Miami Eatery 32,21.0,"French, American",4.2,Miami
+Miami Eatery 33,10.0,"Cafe, Italian, American",4.4,Miami
+Miami Eatery 34,58.0,Indian,3.6,Miami
+Miami Eatery 35,21.0,"Cafe, French",2.6,Miami
+Miami Eatery 36,62.0,Italian,4.7,Miami
+Miami Eatery 37,85.0,"Bakery, French, Chinese",2.1,Miami
+Miami Eatery 38,46.0,"Chinese, Italian, Bakery",4.8,Miami
+Miami Eatery 39,43.0,French,4.8,Miami
+Miami Eatery 40,20.0,"Italian, American",2.9,Miami
+Miami Eatery 41,87.0,"Cafe, Pizza",3.8,Miami
+Miami Eatery 42,66.0,Indian,4.4,Miami
+Miami Eatery 43,69.0,"Indian, Mexican, Bakery",3.6,Miami
+Miami Eatery 44,13.0,Chinese,4.0,Miami
+Miami Eatery 45,22.0,Bakery,2.5,Miami
+Miami Eatery 46,,"American, Pizza",3.5,Miami
+Miami Eatery 47,22.0,"American, Chinese, Bakery",2.4,Miami
+Miami Eatery 48,54.0,Pizza,4.1,Miami
+Miami Eatery 49,29.0,Indian,3.4,Miami
+Miami Eatery 50,76.0,"American, Bakery",3.2,Miami
+Miami Eatery 51,24.0,"American, Italian",4.0,Miami
+Miami Eatery 52,26.0,,4.2,Miami
+Miami Eatery 53,35.0,"American, Italian",3.9,Miami
+Miami Eatery 54,90.0,Mexican,4.3,Miami
+Miami Eatery 55,74.0,,3.4,Miami
+Miami Eatery 56,87.0,"Mexican, Bakery, French",4.6,Miami
+Miami Eatery 57,14.0,"Pizza, Cafe, Chinese",4.8,Miami
+Miami Eatery 58,87.0,"Indian, Cafe",3.4,Miami
+Miami Eatery 59,,"American, Cafe",4.3,Miami
+Tampa Eatery 0,33.0,"Italian, American",2.8,Tampa
+Tampa Eatery 1,52.0,"French, Mexican, Cafe",3.0,Tampa
+Tampa Eatery 2,80.0,,4.1,Tampa
+Tampa Eatery 3,70.0,Cafe,4.7,Tampa
+Tampa Eatery 4,14.0,"Chinese, Indian, Mexican",2.6,Tampa
+Tampa Eatery 5,,"Indian, American, Chinese",3.0,Tampa
+Tampa Eatery 6,55.0,"Bakery, French",4.1,Tampa
+Tampa Eatery 7,31.0,"Indian, Italian",2.4,Tampa
+Tampa Eatery 8,86.0,"Chinese, Bakery, Pizza",3.8,Tampa
+Tampa Eatery 9,23.0,"American, Cafe, Italian",3.3,Tampa
+Tampa Eatery 10,82.0,"Pizza, Cafe, French",2.5,Tampa
+Tampa Eatery 11,80.0,Chinese,2.7,Tampa
+Tampa Eatery 12,27.0,"Bakery, American",4.9,Tampa
+Tampa Eatery 13,90.0,"Bakery, Indian, Mexican",3.0,Tampa
+Tampa Eatery 14,41.0,"Italian, French",2.7,Tampa
+Tampa Eatery 15,74.0,Italian,2.5,Tampa
+Tampa Eatery 16,9.0,Pizza,3.2,Tampa
+Tampa Eatery 17,77.0,"American, Pizza, Italian",4.8,Tampa
+Tampa Eatery 18,28.0,"Bakery, Italian, Chinese",3.8,Tampa
+Tampa Eatery 19,56.0,"Pizza, American",4.9,Tampa
+Tampa Eatery 20,33.0,"Bakery, Pizza",4.3,Tampa
+Tampa Eatery 21,43.0,"French, Indian",2.3,Tampa
+Tampa Eatery 22,84.0,"American, Chinese, Mexican",4.0,Tampa
+Tampa Eatery 23,86.0,,2.3,Tampa
+Tampa Eatery 24,81.0,Chinese,3.0,Tampa
+Tampa Eatery 25,46.0,Italian,4.4,Tampa
+Tampa Eatery 26,59.0,Mexican,4.5,Tampa
+Tampa Eatery 27,37.0,"Mexican, Chinese",2.5,Tampa
+Tampa Eatery 28,81.0,"Mexican, Indian",3.4,Tampa
+Tampa Eatery 29,30.0,"Italian, Indian",3.9,Tampa
+Tampa Eatery 30,64.0,"Mexican, Cafe, Italian",4.2,Tampa
+Tampa Eatery 31,72.0,Chinese,2.5,Tampa
+Tampa Eatery 32,80.0,,4.5,Tampa
+Tampa Eatery 33,68.0,,2.5,Tampa
+Tampa Eatery 34,27.0,Indian,4.7,Tampa
+Tampa Eatery 35,20.0,"French, Mexican, Pizza",4.4,Tampa
+Tampa Eatery 36,33.0,"Bakery, Chinese, Italian",2.6,Tampa
+Tampa Eatery 37,84.0,"Bakery, Cafe, Mexican",3.0,Tampa
+Tampa Eatery 38,,Indian,2.5,Tampa
+Tampa Eatery 39,51.0,"Pizza, French, Chinese",4.5,Tampa
+Tampa Eatery 40,50.0,"American, Indian",3.5,Tampa
+Tampa Eatery 41,61.0,"French, Cafe",4.1,Tampa
+Tampa Eatery 42,62.0,"American, Bakery",4.4,Tampa
+Tampa Eatery 43,40.0,"Pizza, French, Mexican",3.3,Tampa
+Tampa Eatery 44,11.0,Chinese,4.2,Tampa
+Tampa Eatery 45,66.0,"French, Chinese",2.9,Tampa
+Tampa Eatery 46,80.0,"Pizza, Chinese, French",4.6,Tampa
+Tampa Eatery 47,27.0,Indian,3.6,Tampa
+Tampa Eatery 48,67.0,"Pizza, Italian",3.3,Tampa
+Tampa Eatery 49,88.0,Chinese,4.9,Tampa
+Tampa Eatery 50,,,2.8,Tampa
+Tampa Eatery 51,54.0,"Pizza, Bakery, Chinese",2.3,Tampa
+Tampa Eatery 52,19.0,"Indian, Bakery, Chinese",3.3,Tampa
+Tampa Eatery 53,20.0,"Indian, American",2.6,Tampa
+Tampa Eatery 54,36.0,"Cafe, French",4.2,Tampa
+Tampa Eatery 55,21.0,Italian,4.1,Tampa
+Tampa Eatery 56,22.0,Cafe,4.0,Tampa
+Tampa Eatery 57,49.0,"Chinese, Bakery",3.0,Tampa
+Tampa Eatery 58,78.0,"Cafe, Bakery",3.0,Tampa
+Tampa Eatery 59,87.0,"Pizza, Bakery, American",3.4,Tampa
+Orlando Eatery 0,54.0,"Bakery, Italian, Mexican",3.6,Orlando
+Orlando Eatery 1,42.0,,3.7,Orlando
+Orlando Eatery 2,51.0,French,2.3,Orlando
+Orlando Eatery 3,36.0,Cafe,3.9,Orlando
+Orlando Eatery 4,25.0,Chinese,2.9,Orlando
+Orlando Eatery 5,37.0,"Bakery, French, Indian",4.3,Orlando
+Orlando Eatery 6,23.0,"Chinese, Cafe, Italian",4.9,Orlando
+Orlando Eatery 7,60.0,"Cafe, Indian, Chinese",3.1,Orlando
+Orlando Eatery 8,34.0,"Pizza, Cafe",4.4,Orlando
+Orlando Eatery 9,10.0,"Cafe, Indian",3.3,Orlando
+Orlando Eatery 10,87.0,"Indian, Cafe",3.2,Orlando
+Orlando Eatery 11,22.0,Chinese,3.3,Orlando
+Orlando Eatery 12,69.0,"Pizza, Indian",2.1,Orlando
+Orlando Eatery 13,21.0,"Chinese, Pizza, Cafe",2.1,Orlando
+Orlando Eatery 14,49.0,"Pizza, Chinese, Indian",3.5,Orlando
+Orlando Eatery 15,90.0,"Mexican, Cafe",2.3,Orlando
+Orlando Eatery 16,45.0,"American, Cafe, Italian",2.7,Orlando
+Orlando Eatery 17,11.0,"Indian, French, Bakery",3.4,Orlando
+Orlando Eatery 18,29.0,Chinese,4.6,Orlando
+Orlando Eatery 19,88.0,"French, Cafe, Chinese",4.5,Orlando
+Orlando Eatery 20,76.0,Bakery,3.0,Orlando
+Orlando Eatery 21,68.0,"Italian, American, Cafe",3.4,Orlando
+Orlando Eatery 22,11.0,Italian,3.2,Orlando
+Orlando Eatery 23,67.0,French,3.4,Orlando
+Orlando Eatery 24,76.0,"Bakery, Italian",2.1,Orlando
+Orlando Eatery 25,31.0,Chinese,3.6,Orlando
+Orlando Eatery 26,88.0,French,4.9,Orlando
+Orlando Eatery 27,50.0,French,3.1,Orlando
+Orlando Eatery 28,20.0,"Mexican, Cafe, Pizza",4.8,Orlando
+Orlando Eatery 29,64.0,Pizza,2.3,Orlando
+Orlando Eatery 30,27.0,"Bakery, French, Pizza",4.7,Orlando
+Orlando Eatery 31,26.0,"American, Pizza",2.7,Orlando
+Orlando Eatery 32,64.0,Mexican,4.1,Orlando
+Orlando Eatery 33,16.0,,2.1,Orlando
+Orlando Eatery 34,,"American, Italian, Bakery",2.8,Orlando
+Orlando Eatery 35,62.0,Cafe,4.0,Orlando
+Orlando Eatery 36,72.0,Indian,3.7,Orlando
+Orlando Eatery 37,66.0,"French, American, Mexican",3.0,Orlando
+Orlando Eatery 38,56.0,Italian,4.4,Orlando
+Orlando Eatery 39,,"Cafe, Italian, Bakery",3.5,Orlando
+Orlando Eatery 40,,,3.3,Orlando
+Orlando Eatery 41,35.0,Indian,3.3,Orlando
+Orlando Eatery 42,88.0,Indian,4.2,Orlando
+Orlando Eatery 43,43.0,"Cafe, Bakery, Mexican",4.9,Orlando
+Orlando Eatery 44,49.0,"Bakery, Indian, American",3.3,Orlando
+Orlando Eatery 45,,,4.7,Orlando
+Orlando Eatery 46,77.0,"Mexican, American",4.8,Orlando
+Orlando Eatery 47,60.0,"Bakery, Italian",5.0,Orlando
+Orlando Eatery 48,67.0,"American, Cafe, Italian",2.7,Orlando
+Orlando Eatery 49,72.0,"French, Pizza",4.3,Orlando
+Orlando Eatery 50,24.0,"Pizza, American",2.9,Orlando
+Orlando Eatery 51,77.0,Bakery,2.4,Orlando
+Orlando Eatery 52,53.0,"Bakery, Cafe",4.2,Orlando
+Orlando Eatery 53,81.0,"Cafe, Mexican, American",2.9,Orlando
+Orlando Eatery 54,65.0,"Chinese, Pizza",4.3,Orlando
+Orlando Eatery 55,75.0,,2.2,Orlando
+Orlando Eatery 56,24.0,"French, Chinese, Bakery",4.6,Orlando
+Orlando Eatery 57,73.0,"Bakery, Mexican",3.2,Orlando
+Orlando Eatery 58,51.0,"Cafe, Bakery, French",2.7,Orlando
+Orlando Eatery 59,88.0,"French, Chinese, Bakery",3.1,Orlando
+Sarasota Eatery 0,53.0,"French, Pizza, Indian",2.7,Sarasota
+Sarasota Eatery 1,66.0,"French, American, Bakery",3.7,Sarasota
+Sarasota Eatery 2,39.0,Indian,4.0,Sarasota
+Sarasota Eatery 3,44.0,,2.1,Sarasota
+Sarasota Eatery 4,39.0,"Mexican, Indian, Italian",4.5,Sarasota
+Sarasota Eatery 5,31.0,"French, Italian, Mexican",2.2,Sarasota
+Sarasota Eatery 6,37.0,"Bakery, Cafe, Chinese",4.3,Sarasota
+Sarasota Eatery 7,55.0,"Italian, French, Mexican",3.8,Sarasota
+Sarasota Eatery 8,90.0,"Mexican, French",2.4,Sarasota
+Sarasota Eatery 9,78.0,"Italian, Pizza, American",2.7,Sarasota
+Sarasota Eatery 10,34.0,"Cafe, American, Bakery",4.6,Sarasota
+Sarasota Eatery 11,79.0,"Mexican, Bakery, French",2.3,Sarasota
+Sarasota Eatery 12,37.0,"Bakery, Pizza, American",3.6,Sarasota
+Sarasota Eatery 13,31.0,,2.9,Sarasota
+Sarasota Eatery 14,11.0,"Chinese, Cafe, Indian",2.6,Sarasota
+Sarasota Eatery 15,59.0,"Cafe, Pizza",3.4,Sarasota
+Sarasota Eatery 16,26.0,American,4.6,Sarasota
+Sarasota Eatery 17,54.0,,3.2,Sarasota
+Sarasota Eatery 18,36.0,American,3.2,Sarasota
+Sarasota Eatery 19,,"Mexican, French",2.2,Sarasota
+Sarasota Eatery 20,,"French, Bakery",2.7,Sarasota
+Sarasota Eatery 21,11.0,French,3.8,Sarasota
+Sarasota Eatery 22,61.0,Italian,3.9,Sarasota
+Sarasota Eatery 23,29.0,Italian,4.3,Sarasota
+Sarasota Eatery 24,63.0,"Chinese, Mexican",3.8,Sarasota
+Sarasota Eatery 25,48.0,"Pizza, Bakery, Chinese",3.7,Sarasota
+Sarasota Eatery 26,55.0,"Cafe, Italian",2.4,Sarasota
+Sarasota Eatery 27,61.0,"Italian, Chinese",4.6,Sarasota
+Sarasota Eatery 28,27.0,,2.5,Sarasota
+Sarasota Eatery 29,79.0,"Italian, Chinese",2.6,Sarasota
+Sarasota Eatery 30,78.0,,3.0,Sarasota
+Sarasota Eatery 31,29.0,"Mexican, Indian",2.8,Sarasota
+Sarasota Eatery 32,15.0,"Italian, Cafe, American",4.5,Sarasota
+Sarasota Eatery 33,47.0,"Mexican, Chinese",3.5,Sarasota
+Sarasota Eatery 34,78.0,Mexican,3.2,Sarasota
+Sarasota Eatery 35,89.0,"Italian, Chinese",4.4,Sarasota
+Sarasota Eatery 36,50.0,"Italian, Pizza",3.7,Sarasota
+Sarasota Eatery 37,45.0,"American, French, Bakery",4.0,Sarasota
+Sarasota Eatery 38,58.0,"Pizza, Mexican",3.9,Sarasota
+Sarasota Eatery 39,61.0,,3.8,Sarasota
+Sarasota Eatery 40,36.0,"Chinese, Indian",4.0,Sarasota
+Sarasota Eatery 41,20.0,"Chinese, American, Mexican",3.2,Sarasota
+Sarasota Eatery 42,26.0,"French, Pizza, Indian",4.7,Sarasota
+Sarasota Eatery 43,45.0,"Cafe, American",2.4,Sarasota
+Sarasota Eatery 44,82.0,"Cafe, Indian, Pizza",2.9,Sarasota
+Sarasota Eatery 45,28.0,"Pizza, American, Bakery",4.8,Sarasota
+Sarasota Eatery 46,61.0,"French, Bakery, Italian",4.1,Sarasota
+Sarasota Eatery 47,80.0,"French, Cafe",4.3,Sarasota
+Sarasota Eatery 48,37.0,"Chinese, Cafe, Bakery",3.8,Sarasota
+Sarasota Eatery 49,31.0,"Bakery, Italian, Pizza",3.6,Sarasota
+Sarasota Eatery 50,36.0,"Chinese, Cafe",2.4,Sarasota
+Sarasota Eatery 51,84.0,"Cafe, Italian, French",2.6,Sarasota
+Sarasota Eatery 52,13.0,,3.9,Sarasota
+Sarasota Eatery 53,,"Bakery, Indian",3.7,Sarasota
+Sarasota Eatery 54,83.0,,2.8,Sarasota
+Sarasota Eatery 55,,Mexican,3.3,Sarasota
+Sarasota Eatery 56,9.0,"American, French",3.8,Sarasota
+Sarasota Eatery 57,51.0,"French, Chinese, Bakery",4.2,Sarasota
+Sarasota Eatery 58,22.0,Bakery,4.5,Sarasota
+Sarasota Eatery 59,72.0,Mexican,3.9,Sarasota

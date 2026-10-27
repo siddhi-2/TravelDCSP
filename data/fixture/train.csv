@@ -1,0 +1,4 @@
+org,dest,days,visiting_city_number,date,people_number,local_constraint,budget,query,level
+Miami,Austin,3,1,"['2022-03-01', '2022-03-02', '2022-03-03']",1,"{'house rule': None, 'cuisine': None, 'room type': None, 'transportation': None}",1800,Plan a 3-day trip from Miami to Austin for 1 people with a budget of $1800.,easy
+Tampa,Ohio,5,2,"['2022-03-01', '2022-03-02', '2022-03-03', '2022-03-04', '2022-03-05']",2,"{'house rule': None, 'cuisine': ['Chinese', 'Italian'], 'room type': None, 'transportation': None}",5200,Plan a 5-day trip from Tampa to Ohio for 2 people with a budget of $5200.,medium
+Dallas,Florida,7,3,"['2022-03-01', '2022-03-02', '2022-03-03', '2022-03-04', '2022-03-05', '2022-03-06', '2022-03-07']",3,"{'house rule': 'smoking', 'cuisine': None, 'room type': 'not shared room', 'transportation': None}",9000,Plan a 7-day trip from Dallas to Florida for 3 people with a budget of $9000.,hard
